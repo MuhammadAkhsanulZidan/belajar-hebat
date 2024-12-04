@@ -405,7 +405,7 @@
         "text": [
           "<p><b>Proses Pencernaan Manusia</b></p>",
           "<p>Pencernaan adalah proses pemecahan makanan menjadi zat yang lebih kecil sehingga dapat diserap oleh tubuh. Proses ini melibatkan beberapa organ yang bekerja secara terkoordinasi. Berikut adalah organ-organ utama pencernaan dan fungsinya:</p>",
-          "<img src='https://asset-2.tstatic.net/banjarmasin/foto/bank/images/gambar-sistem-pencernaan-pada-manusia.jpg' alt='Bagan Pembekuan Darah' width='70%'/>",
+          "<img src='https://asset-2.tstatic.net/banjarmasin/foto/bank/images/gambar-sistem-pencernaan-pada-manusia.jpg' alt='Bagan Pembekuan Darah' width='100%'/>",
           "<ul>",
           "  <li><b>Mulut:</b><b> Mengunyah makanan dan mencampurnya dengan enzim amilase</b> dalam air liur untuk mencerna karbohidrat.</li>",
           "  <li><b>Kerongkongan:</b> <b>Menghantarkan makanan</b> dari mulut ke lambung dengan gerakan peristaltik.</li>",
@@ -610,6 +610,7 @@
         "text": [
           "<p><b>Pengertian Sistem Peredaran Darah</b></p>",
           "<p>Sistem peredaran darah pada manusia terdiri dari dua jenis sirkulasi, yaitu peredaran darah besar dan peredaran darah kecil. Kedua sistem ini memiliki peran penting dalam mendistribusikan darah ke seluruh tubuh.</p>",
+          "<img src='https://cdn-web.ruangguru.com/landing-pages/assets/hs/08BIO%20-%20Sistem%20Peredaran%20Darah%20Manusia-04.jpg' alt='' width='100%'/>",
           "<p><b>Sistem Peredaran Darah Besar</b></p>",
           "<p>Sistem peredaran darah besar dimulai dari ventrikel kiri jantung, darah yang mengandung oksigen dipompa ke seluruh tubuh melalui aorta. Darah akan melewati arteri, arteriol, dan akhirnya mencapai kapiler di seluruh tubuh untuk bertukar oksigen dan nutrisi dengan sel-sel tubuh. Setelah proses pertukaran, darah yang kekurangan oksigen mengalir kembali melalui venula, vena, dan kembali ke atrium kanan jantung melalui vena cava.</p>",
           "<p><b>Sistem Peredaran Darah Kecil</b></p>",
@@ -787,7 +788,7 @@
           "<tbody>",
           "  <tr><td>Ginjal</td><td>Urin (air, urea, garam, produk samping metabolisme)</td></tr>",
           "  <tr><td>Paru-paru</td><td>Karbon dioksida (CO2), uap air</td></tr>",
-          "  <tr><td>Kulit</td><td>Peluh (air, garam, urea)</td></tr>",
+          "  <tr><td>Kulit</td><td>Keringat (air, garam, urea)</td></tr>",
           "  <tr><td>Hati</td><td>Produk samping metabolisme (bilirubin, amonia, dll.)</td></tr>",
           "</tbody>",
           "</table>"
@@ -800,7 +801,7 @@
           "<ul>",
           "  <li><b>Ginjal:</b> Ginjal bertugas untuk menyaring darah dan mengeluarkan zat-zat yang tidak diperlukan tubuh dalam bentuk urin. Zat-zat yang dikeluarkan meliputi air, urea, garam, dan produk sampingan metabolisme lainnya.</li>",
           "  <li><b>Paru-paru:</b> Paru-paru mengeluarkan karbon dioksida (CO2) yang merupakan hasil samping dari metabolisme sel. Selain itu, paru-paru juga mengeluarkan uap air melalui proses pernapasan.</li>",
-          "  <li><b>Kulit:</b> Kulit mengeluarkan peluh yang mengandung air, garam, dan urea. Peluh membantu tubuh untuk menjaga suhu tubuh agar tetap stabil.</li>",
+          "  <li><b>Kulit:</b> Kulit mengeluarkan keringat yang mengandung air, garam, dan urea. keringat membantu tubuh untuk menjaga suhu tubuh agar tetap stabil.</li>",
           "  <li><b>Hati:</b> Hati berperan dalam mengolah zat-zat berbahaya, seperti amonia, dan mengubahnya menjadi zat yang tidak berbahaya. Zat-zat tersebut dikeluarkan dalam bentuk bilirubin yang masuk ke dalam empedu dan kemudian dibuang ke usus.</li>",
           "</ul>"
         ]
@@ -822,7 +823,7 @@
           },
           {
             "text": "Kulit",
-            "feedback": "Salah! Kulit mengeluarkan peluh yang mengandung air, garam, dan urea."
+            "feedback": "Salah! Kulit mengeluarkan keringat yang mengandung air, garam, dan urea."
           },
           {
             "text": "Hati",
@@ -833,12 +834,12 @@
       },
       {
         "question": [
-          "<p>Zat apa yang dikeluarkan oleh kulit melalui peluh?</p>"
+          "<p>Zat apa yang dikeluarkan oleh kulit melalui keringat?</p>"
         ],
         "options": [
           {
             "text": "Air, garam, dan urea",
-            "feedback": "Benar! Kulit mengeluarkan peluh yang mengandung air, garam, dan urea."
+            "feedback": "Benar! Kulit mengeluarkan keringat yang mengandung air, garam, dan urea."
           },
           {
             "text": "Karbon dioksida dan uap air",
@@ -866,9 +867,9 @@
         "text": [
           "<p><b>Pengenalan Kulit dan Fungsinya dalam Sistem Ekskresi</b></p>",
           "<p>Kulit adalah organ terbesar dalam tubuh manusia, yang berfungsi sebagai pelindung tubuh dari lingkungan luar. Selain itu, kulit juga berperan dalam proses ekskresi, yakni mengeluarkan produk sisa dari tubuh.</p>",
-          "<p>Bagian kulit yang berperan dalam sistem ekskresi adalah kelenjar keringat, yang mengeluarkan peluh yang mengandung air, garam, dan urea.</p>",
+          "<p>Bagian kulit yang berperan dalam sistem ekskresi adalah <b>kelenjar keringat</b>, yang mengeluarkan keringat yang mengandung air, garam, dan urea.</p>",
           "<p>Berikut adalah ilustrasi bagian kulit yang berperan dalam sistem ekskresi:</p>",
-          "<img src='https://i.pinimg.com/736x/84/4e/91/844e91f01c075935060f0f99c810d5a6.jpg' alt='Ilustrasi Kulit dan Kelenjar Keringat' width='70%'/>"
+          "<img src='https://i.pinimg.com/736x/84/4e/91/844e91f01c075935060f0f99c810d5a6.jpg' alt='Ilustrasi Kulit dan Kelenjar Keringat' width='100%'/>"
         ]
       },
       {
@@ -876,9 +877,9 @@
         "text": [
           "<p><b>Bagian Kulit yang Berperan dalam Ekskresi</b></p>",
           "<ul>",
-          "  <li><b>Kelenjar Keringat:</b> Kelenjar ini terletak di dalam kulit dan bertugas untuk menghasilkan peluh yang mengandung air, garam, dan urea. Peluh ini membantu tubuh dalam proses pengaturan suhu dan juga mengeluarkan produk sisa seperti urea.</li>",
+          "  <li><b>Kelenjar Keringat:</b> Kelenjar ini terletak di dalam kulit dan bertugas untuk menghasilkan keringat yang mengandung air, garam, dan urea. keringat ini membantu tubuh dalam proses pengaturan suhu dan juga mengeluarkan produk sisa seperti urea.</li>",
           "  <li><b>Epidermis:</b> Lapisan terluar kulit ini berfungsi sebagai pelindung dan juga sebagai tempat kelenjar keringat berada. Meskipun epidermis tidak langsung mengeluarkan zat, ia berperan dalam menyaring dan mengatur kelembapan kulit.</li>",
-          "  <li><b>Dermis:</b> Dermis adalah lapisan kulit yang lebih dalam dan mengandung pembuluh darah serta kelenjar keringat. Pembuluh darah ini membantu mengatur suhu tubuh dengan membawa panas ke permukaan kulit untuk dikeluarkan dalam bentuk peluh.</li>",
+          "  <li><b>Dermis:</b> Dermis adalah lapisan kulit yang lebih dalam dan mengandung pembuluh darah serta kelenjar keringat. Pembuluh darah ini membantu mengatur suhu tubuh dengan membawa panas ke permukaan kulit untuk dikeluarkan dalam bentuk keringat.</li>",
           "</ul>"
         ]
       }
@@ -886,24 +887,24 @@
     "questions": [
       {
         "question": [
-          "<p>Bagian kulit manakah yang mengeluarkan peluh yang mengandung air, garam, dan urea?</p>"
+          "<p>Bagian kulit manakah yang mengeluarkan keringat yang mengandung air, garam, dan urea?</p>"
         ],
         "options": [
           {
             "text": "Epidermis",
-            "feedback": "Salah! Epidermis adalah lapisan terluar kulit yang berfungsi sebagai pelindung, bukan sebagai penghasil peluh."
+            "feedback": "Salah! Epidermis adalah lapisan terluar kulit yang berfungsi sebagai pelindung, bukan sebagai penghasil keringat."
           },
           {
             "text": "Dermis",
-            "feedback": "Salah! Dermis adalah lapisan kulit yang mengandung pembuluh darah dan kelenjar keringat, tetapi yang menghasilkan peluh adalah kelenjar keringat."
+            "feedback": "Salah! Dermis adalah lapisan kulit yang mengandung pembuluh darah dan kelenjar keringat, tetapi yang menghasilkan keringat adalah kelenjar keringat."
           },
           {
             "text": "Kelenjar Keringat",
-            "feedback": "Benar! Kelenjar keringat terletak di dermis dan bertugas menghasilkan peluh yang mengandung air, garam, dan urea."
+            "feedback": "Benar! Kelenjar keringat terletak di dermis dan bertugas menghasilkan keringat yang mengandung air, garam, dan urea."
           },
           {
             "text": "Pembuluh Darah",
-            "feedback": "Salah! Pembuluh darah berfungsi untuk mengatur suhu tubuh, tetapi bukan untuk mengeluarkan peluh."
+            "feedback": "Salah! Pembuluh darah berfungsi untuk mengatur suhu tubuh, tetapi bukan untuk mengeluarkan keringat."
           }
         ],
         "answer_index": 2
@@ -1125,7 +1126,7 @@
         "text": [
           "<p><b>Contoh Grafik Kapasitas Paru-paru</b></p>",
           "<p>Berikut adalah contoh grafik yang menunjukkan kapasitas paru-paru:</p>",
-          "<img src='https://imgix2.ruangguru.com/assets/miscellaneous/png_i8vwtt_4887.png' alt='' width='70%' />",
+          "<img src='https://imgix2.ruangguru.com/assets/miscellaneous/png_i8vwtt_4887.png' alt='' width='100%' />",
           "<p>Dalam grafik ini, kita dapat melihat berbagai volume udara yang terlibat dalam siklus pernapasan dan menghitung kapasitas vital serta kapasitas total paru-paru berdasarkan data yang diberikan.</p>"
         ]
       }
@@ -1202,7 +1203,7 @@
         "page_number": 2,
         "text": [
           "<p><b>Bagian-bagian Nefron dan Fungsinya:</b></p>",
-          "<img src='https://imgix2.ruangguru.com/assets/miscellaneous/png_afvwgo_8088.png' alt='' width='70%' />",
+          "<img src='https://imgix2.ruangguru.com/assets/miscellaneous/png_afvwgo_8088.png' alt='' width='100%' />",
           "<ul>",
           "  <li><b>Glomerulus:</b> Pembuluh darah yang menyaring darah. Proses filtrasi terjadi di sini, menghasilkan filtrat yang terdiri dari air, garam, glukosa, urea, dan zat lainnya.</li>",
           "  <li><b>Kapsula Bowman:</b> Tempat penampungan filtrat glomerulus yang akan diproses lebih lanjut. Tidak ada proses reabsorpsi atau augmentasi di sini, hanya penampungan filtrat.</li>",
@@ -1298,7 +1299,7 @@
         "text": [
           "<p><b>Pengertian Ginjal</b></p>",
           "<p>Ginjal adalah organ penting dalam tubuh manusia yang berfungsi untuk menyaring darah, mengeluarkan produk sisa dari metabolisme, serta mengatur keseimbangan air dan elektrolit. Ginjal terdiri dari beberapa bagian yang masing-masing memiliki fungsi tertentu dalam proses ekskresi.</p>",
-          "<img src='https://roboguru-forum-cdn.ruangguru.com/4d8f394b-dcab-40e0-ad92-bf26d658d527.jpg?convert=png' alt='Bagan Pembekuan Darah' width='70%'/>",
+          "<img src='https://roboguru-forum-cdn.ruangguru.com/4d8f394b-dcab-40e0-ad92-bf26d658d527.jpg?convert=png' alt='Bagan Pembekuan Darah' width='100%'/>",
           "<p>Berikut adalah beberapa bagian utama ginjal beserta fungsinya:</p>",
           "<ul>",
           "  <li><b>Korteks Ginjal:</b> Lapisan luar ginjal yang berfungsi untuk menyaring darah dan menghasilkan filtrat yang akan diproses lebih lanjut.</li>",
@@ -2204,7 +2205,7 @@
         "page_number": 2,
         "text": [
           "<p><b>Bagan Proses Pembekuan Darah:</b></p>",
-          "<img src='https://cdn-web.ruangguru.com/landing-pages/assets/hs/skema%20proses%20pembekuan%20darah.jpg' alt='Bagan Pembekuan Darah' width='70%'/>",
+          "<img src='https://cdn-web.ruangguru.com/landing-pages/assets/hs/skema%20proses%20pembekuan%20darah.jpg' alt='Bagan Pembekuan Darah' width='100%'/>",
           "<p><b>Kesimpulan:</b> Proses pembekuan darah melibatkan trombosit yang pecah, mengeluarkan trombokinase, yang mengubah protrombin menjadi trombin. Trombin kemudian mengubah fibrinogen menjadi fibrin, yang membentuk benang fibrin untuk menghentikan perdarahan.</p>"
         ]
       }

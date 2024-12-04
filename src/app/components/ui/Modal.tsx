@@ -13,7 +13,7 @@ const Modal: React.FC<ModalProps> = ({ isOpen, onClose, materials, handleMateria
 
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center" onClick={onClose}>
-      <div className="bg-white p-2 rounded shadow-lg max-w-3/4 max-h-3/4 overflow-y-auto" onClick={(e) => e.stopPropagation()}>
+      <div className="bg-white p-2 rounded shadow-lg w-3/4 h-3/4 overflow-y-auto" onClick={(e) => e.stopPropagation()}>
         <div className="flex justify-between items-center gap-2">
           <h2 className="text font-bold ps-2">Semua Materi</h2>
           <button onClick={onClose} className="bg-red-500 hover:bg-red-700 text-white px-2 py-1 rounded">
