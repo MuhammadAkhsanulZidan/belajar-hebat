@@ -1,0 +1,29 @@
+[
+    {
+      "material_id": 1,
+      "material_title": "Kandungan nutrisi pada makanan",
+      "questions": [
+        {
+          "question": "What is 2 + 2?",
+          "options": ["3", "4", "5", "6"],
+          "answer_index": 1
+        },
+        {
+          "question": "What is the capital of France?",
+          "options": ["Berlin", "Paris", "Madrid", "Rome"],
+          "answer_index": 1
+        }
+      ]
+    },
+    {
+      "material_id": 2,
+      "questions": [
+        {
+          "question": "What is the square root of 16?",
+          "options": ["2", "4", "8", "10"],
+          "answer_index": 1
+        }
+      ]
+    }
+  ]
+  

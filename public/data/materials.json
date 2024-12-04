@@ -1,0 +1,2263 @@
+[
+  {
+    "id": 1,
+    "title": "Kandungan nutrisi pada makanan",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p>Setiap makanan itu memiliki kandungan nutrisi tertentu lho. Contohnya:</p>",
+          "<br>",
+          "<p class='blue-bold'>Karbohidrat</p>",
+          "<p>Biasanya terdapat di <span class='black-bold'>Nasi, roti, kentang, dan jagung</span></p>",
+          "<br>",
+          "<p class='blue-bold'>Protein</p>",
+          "<p>Biasanya terdapat di <span class='black-bold'>Daging, ikan, telur, kacang-kacangan</span></p>",
+          "<br>",
+          "<p class='blue-bold'>Lemak</p>",
+          "<p>Biasanya terdapat di <span class='black-bold'>minyak, mentega, alpukat, dan kacang-kacangan</span></p>",
+          "<br>",
+          "<p class='blue-bold'>Vitamin dan Mineral</p>",
+          "<p>Biasanya terdapat di <span class='black-bold'>sayuran dan buah-buahan.</span></p>",
+          "<br>",
+          "<p class='blue-bold'>Serat</p>",
+          "<p>Bisa kamu jumpai di <span class='black-bold'>sayur, buah, dan biji-bijian</span></p>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p class='blue-bold'>Biasanya gini nih</p>",
+          "<br>",
+          "<p>Makanan pokok = Karbohidrat</p>",
+          "<p>Lauk-pauk = Protein</p>",
+          "<p>Buah dan sayur = Vitamin, mineral, serat</p>",
+          "<p>Minyak dan lemak = Lemak</p>"
+        ]
+      },
+      {
+        "page_number": 3,
+        "text": [
+          "<p>Oiya, kita sebut sedikit tentang vitamin dan mineral yang sering disebut ya</p>",
+          "<br>",
+          "<p>Vitamin A: wortel, mangga, pepaya</p>",
+          "<p>Vitamin C: jeruk, mangga, pepaya</p>",
+          "<p>Zat besi: bayam, kangkung</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Makanan manakah yang merupakan sumber utama karbohidrat?</p>"
+        ],
+        "options": [
+          {
+            "text": "Ikan",
+            "feedback": "Kurang tepat nih. coba lagi ya."
+          },
+          {
+            "text": "Nasi",
+            "feedback": "Wah bener. Inget ya, makanan pokok umumnya sumber karbohidrat."
+          },
+          {
+            "text": "Brokoli",
+            "feedback": "Kurang tepat. coba lagi ya."
+          },
+          {
+            "text": "Alpukat",
+            "feedback": "Kurang tepat nih. Alpukat itu lemak"
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Apakah kandungan nutrisi utama yang terdapat pada tahu dan tempe?</p>"
+        ],
+        "options": [
+          {
+            "text": "Vitamin",
+            "feedback": "Kurang tepat ya. coba diinget lagi tahu/tempe itu kategori makanan apa. Lauk-pauk?"
+          },
+          {
+            "text": "Lemak",
+            "feedback": "Kurang tepat ya. coba diinget lagi tahu/tempe itu kategori makanan apa. Lauk-pauk?"
+          },
+          {
+            "text": "Protein",
+            "feedback": "Wah bener. Cara gampangnya tadi ya, karena termasuk lauk-pauk yang biasanya sumber protein. Bahan bakunya pun, yakni kacang kedelai itu sumber protein."
+          },
+          {
+            "text": "Karbohidrat",
+            "feedback": "Kurang tepat ya. coba diinget lagi tahu/tempe itu kategori makanan apa. Lauk-pauk?"
+          }
+        ],
+        "answer_index": 2
+      },
+      {
+        "question": [
+          "<p>Buah dan sayuran seperti jeruk dan bayam kaya akan nutrisi apa?</p>"
+        ],
+        "options": [
+          {
+            "text": "Karbohidrat dan lemak",
+            "feedback": "Kurang tepat ya. coba diinget lagi jeruk dan bayam itu kategori makanan apa. Buah/sayur ?"
+          },
+          {
+            "text": "Vitamin dan mineral",
+            "feedback": "Mantap kali lah.  Jeruk kaya vitamin C dan Bayam kaya zat besi"
+          },
+          {
+            "text": "Protein dan serat",
+            "feedback": "Kurang tepat ya. coba diinget lagi jeruk dan bayam itu kategori makanan apa. Buah/sayur ?"
+          },
+          {
+            "text": "Lemak dan karbohidrat",
+            "feedback": "Kurang tepat ya. coba diinget lagi jeruk dan bayam itu kategori makanan apa. Buah/sayur ?"
+          }
+        ],
+        "answer_index": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mikronutrien dan Makronutrien",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p>Yuk kenali perbedaan mikronutrien dan makronutrien. Berikut penjelasannya:</p>",
+          "<br>",
+          "<p class='blue-bold'>Makronutrien</p>",
+          "<p>Merupakan nutrisi yang dibutuhkan tubuh dalam <span class='black-bold'>jumlah besar</span> untuk energi dan pertumbuhan.</p>",
+          "<p>Contoh:</p>",
+          "<ul>",
+          "  <li><span class='black-bold'>Karbohidrat</span></li>",
+          "  <li><span class='black-bold'>Protein</span></li>",
+          "  <li><span class='black-bold'>Lemak</span></li>",
+          "  <li><span class='black-bold'>Air</span></li>",
+          "  <li><span class='black-bold'>Serat</span></li>",
+          "</ul>",
+          "<br>",
+          "<p class='blue-bold'>Mikronutrien</p>",
+          "<p>Merupakan nutrisi yang dibutuhkan tubuh dalam <span class='black-bold'>jumlah kecil</span> tetapi penting untuk fungsi tubuh.</p>",
+          "<p>Contoh:</p>",
+          "<ul>",
+          "  <li><span class='black-bold'>Vitamin</span>: vitamin A, B, C, D, E, K</li>",
+          "  <li><span class='black-bold'>Mineral</span>: zat besi, kalsium, kalium</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p class='blue-bold'>Coba pakai cara ini: </p>",
+          "<br>",
+          "<p>Makro = <span class='black-bold'>Besar</span> → Karbohidrat, Protein, Lemak (sumber energi utama).</p>",
+          "<p>Mikro = <span class='black-bold'>Kecil</span> → Vitamin dan Mineral (pendukung fungsi tubuh).</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Manakah yang termasuk dalam kelompok makronutrien?</p>"
+        ],
+        "options": [
+          {
+            "text": "Vitamin C",
+            "feedback": "Salah! Vitamin C termasuk mikronutrien."
+          },
+          {
+            "text": "Karbohidrat",
+            "feedback": "Benar! Karbohidrat termasuk makronutrien."
+          },
+          {
+            "text": "Zat besi",
+            "feedback": "Salah! Zat besi termasuk mikronutrien."
+          },
+          {
+            "text": "Kalium",
+            "feedback": "Salah! Kalium termasuk mikronutrien."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Serat termasuk dalam kelompok...</p>"
+        ],
+        "options": [
+          {
+            "text": "Mikronutrien",
+            "feedback": "Salah! Serat termasuk makronutrien."
+          },
+          {
+            "text": "Makronutrien",
+            "feedback": "Benar! Serat termasuk makronutrien."
+          },
+          {
+            "text": "Mineral",
+            "feedback": "Salah! Serat bukan mineral."
+          },
+          {
+            "text": "Vitamin",
+            "feedback": "Salah! Serat bukan vitamin."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Vitamin D termasuk dalam kategori...</p>"
+        ],
+        "options": [
+          {
+            "text": "Makronutrien",
+            "feedback": "Salah! Vitamin D termasuk mikronutrien."
+          },
+          {
+            "text": "Mikronutrien",
+            "feedback": "Benar! Vitamin D termasuk mikronutrien."
+          },
+          {
+            "text": "Karbohidrat",
+            "feedback": "Salah! Vitamin D bukan karbohidrat."
+          },
+          {
+            "text": "Lemak",
+            "feedback": "Salah! Vitamin D bukan lemak."
+          }
+        ],
+        "answer_index": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Zat Aditif dan Kegunaannya",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p>Zat Aditif adalah bahan yang <b>sengaja ditambahkan</b> ke dalam produk makanan atau minuman untuk meningkatkan kualitas, rasa, penampilan, atau masa simpan. Berikut contohnya:</p>",
+          "<br>",
+          "<p class='blue-bold'>Pewarna Makanan</p>",
+          "<p>Digunakan untuk memberikan <span class='black-bold'>warna</span> pada makanan, seperti pada permen, kue, atau minuman.</p>",
+          "<br>",
+          "<p class='blue-bold'>Pengawet</p>",
+          "<p>Digunakan untuk memperpanjang <span class='black-bold'>masa simpan</span> makanan, seperti dengan <b>memperlambat kerusakan makanan akibat mikroorganisme</b></p>",
+          "<br>",
+          "<p class='blue-bold'>Penyedap Rasa</p>",
+          "<p>Digunakan untuk meningkatkan <span class='black-bold'>rasa</span> makanan, seperti monosodium glutamat (MSG) (MICIN).</p>",
+          "<br>",
+          "<p class='blue-bold'>Pengemulsi</p>",
+          "<p>Digunakan untuk <b>mencampurkan bahan</b> yang <b>tidak dapat bercampur dengan mudah</b>, seperti pada minyak dan air.</p>",
+          "<br>",
+          "<p class='blue-bold'>Pemanis Buatan</p>",
+          "<p>Digunakan untuk memberikan rasa <span class='black-bold'>manis</span></p>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p class='blue-bold'>Berikut contoh zat aditif</p>",
+          "<br>",
+          "<p>Pengawet</p>",
+          "<ul>",
+          "  <li><span class='black-bold'>Buatan :</span> Natrium Benzoat, Kalium Sorbat</li>",
+          "  <li><span class='black-bold'>Alami :</span> Garam, Gula</li>",
+          "</ul>",
+          "<p>Pewarna</p>",
+          "<ul>",
+          "  <li><span class='black-bold'>Buatan :</span> Tartrazin, Erythrosine</li>",
+          "  <li><span class='black-bold'>Alami :</span> Kunyit, Daun Suji</li>",
+          "</ul>",
+          "<p>Pemanis</p>",
+          "<ul>",
+          "  <li><span class='black-bold'>Buatan :</span> Aspartam, Sakarin</li>",
+          "  <li><span class='black-bold'>Alami :</span> Madu, Sirup Maple</li>",
+          "</ul>",
+          "<p>Pengemulsi</p>",
+          "<ul>",
+          "  <li><span class='black-bold'>Buatan :</span> Lesitin (dari kedelai), Mono- dan Digliserida</li>",
+          "  <li><span class='black-bold'>Alami :</span> Kuning Telur</li>",
+          "</ul>",
+          "<p>Pengental</p>",
+          "<ul>",
+          "  <li><span class='black-bold'>Buatan :</span> Karboksimetil Selulosa (CMC), Xanthan Gum</li>",
+          "  <li><span class='black-bold'>Alami :</span> Agar-agar, Tepung Tapioka</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 3,
+        "text": [
+          "<p class='blue-bold'>Berikut kelebihan dan kekurangan zat aditif</p>",
+          "<br>",
+          "<table border='1' style='width:100%; border-collapse: collapse;'>",
+          "  <thead>",
+          "    <tr>",
+          "      <th style='padding:8px; text-align:left; background-color:#f2f2f2;'>Jenis Zat Aditif</th>",
+          "      <th style='padding:8px; text-align:left; background-color:#f2f2f2;'>Kelebihan</th>",
+          "      <th style='padding:8px; text-align:left; background-color:#f2f2f2;'>Kekurangan</th>",
+          "    </tr>",
+          "  </thead>",
+          "  <tbody>",
+          "    <tr>",
+          "      <td style='padding:8px;'>Zat Aditif Alami</td>",
+          "      <td style='padding:8px;'><b>Aman</b> bagi kesehatan jika digunakan dengan wajar, <b>ramah lingkungan</b>, <b>tidak menimbulkan efek samping jangka panjang.</b></td>",
+          "      <td style='padding:8px;'>Lebih <b>mahal</b>, <b>umur simpan pendek</b>, <b>sulit diperoleh</b> dalam jumlah besar, sering kali <b>memengaruhi rasa atau warna</b> makanan.</td>",
+          "    </tr>",
+          "    <tr>",
+          "      <td style='padding:8px;'>Zat Aditif Buatan</td>",
+          "      <td style='padding:8px;'>Lebih <b>murah</b>, <b>mudah diproduksi<b> dalam jumlah besar, <b>meningkatkan</b> umur simpan, warna, atau rasa makanan <b>lebih baik</b>.</td>",
+          "      <td style='padding:8px;'>Berisiko menyebabkan <b>efek samping atau alergi</b>, <b>kurang ramah lingkungan</b>, dapat menimbulkan <b>dampak negatif pada kesehatan</b> jika digunakan secara berlebihan.</td>",
+          "    </tr>",
+          "  </tbody>",
+          "</table>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Apa kegunaan utama dari zat aditif pewarna makanan?</p>"
+        ],
+        "options": [
+          {
+            "text": "Memperpanjang masa simpan makanan",
+            "feedback": "Salah! Memperpanjang masa simpan adalah fungsi dari pengawet."
+          },
+          {
+            "text": "Memberikan warna pada makanan",
+            "feedback": "Benar! Pewarna makanan digunakan untuk memberikan warna pada makanan."
+          },
+          {
+            "text": "Meningkatkan rasa makanan",
+            "feedback": "Salah! Meningkatkan rasa adalah fungsi dari penyedap rasa."
+          },
+          {
+            "text": "Mencampurkan bahan yang tidak bercampur",
+            "feedback": "Salah! Mencampurkan bahan adalah fungsi dari pengemulsi."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Manakah zat aditif alami berikut yang digunakan sebagai pengawet?</p>"
+        ],
+        "options": [
+          {
+            "text": "Tartrazin",
+            "feedback": "Salah! Tartrazin adalah pewarna buatan."
+          },
+          {
+            "text": "Garam",
+            "feedback": "Benar! Garam adalah zat aditif alami yang digunakan sebagai pengawet."
+          },
+          {
+            "text": "Aspartam",
+            "feedback": "Salah! Aspartam adalah pemanis buatan."
+          },
+          {
+            "text": "Lesitin",
+            "feedback": "Salah! Lesitin adalah pengemulsi buatan."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Apa kekurangan utama zat aditif buatan?</p>"
+        ],
+        "options": [
+          {
+            "text": "Sulit diproduksi dalam jumlah besar",
+            "feedback": "Salah! Zat aditif buatan mudah diproduksi dalam jumlah besar."
+          },
+          {
+            "text": "Kurang ramah lingkungan",
+            "feedback": "Benar! Salah satu kekurangan utama zat aditif buatan adalah kurang ramah lingkungan."
+          },
+          {
+            "text": "Memiliki umur simpan pendek",
+            "feedback": "Salah! Zat aditif buatan biasanya memiliki umur simpan panjang."
+          },
+          {
+            "text": "Sulit ditemukan",
+            "feedback": "Salah! Zat aditif buatan mudah ditemukan."
+          }
+        ],
+        "answer_index": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Proses Pencernaan pada Organ",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Proses Pencernaan Manusia</b></p>",
+          "<p>Pencernaan adalah proses pemecahan makanan menjadi zat yang lebih kecil sehingga dapat diserap oleh tubuh. Proses ini melibatkan beberapa organ yang bekerja secara terkoordinasi. Berikut adalah organ-organ utama pencernaan dan fungsinya:</p>",
+          "<img src='https://asset-2.tstatic.net/banjarmasin/foto/bank/images/gambar-sistem-pencernaan-pada-manusia.jpg' alt='Bagan Pembekuan Darah' width='70%'/>",
+          "<ul>",
+          "  <li><b>Mulut:</b><b> Mengunyah makanan dan mencampurnya dengan enzim amilase</b> dalam air liur untuk mencerna karbohidrat.</li>",
+          "  <li><b>Kerongkongan:</b> <b>Menghantarkan makanan</b> dari mulut ke lambung dengan gerakan peristaltik.</li>",
+          "  <li><b>Lambung:</b> <b>Menghancurkan makanan</b> secara mekanis dan kimiawi dengan bantuan asam lambung dan enzim pepsin.</li>",
+          "  <li><b>Usus Halus:</b> <b>Menyerap nutrisi</b> dari makanan yang telah dicerna dengan bantuan enzim dari pankreas dan empedu.</li>",
+          "  <li><b>Usus Besar:</b> <b>Menyerap air dan membentuk feses</b> dari sisa makanan yang tidak tercerna.</li>",
+          "</ul>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Organ yang ditunjuk adalah lambung. Apa fungsi utama lambung dalam proses pencernaan?</p>"
+        ],
+        "options": [
+          {
+            "text": "Menyerap nutrisi",
+            "feedback": "Salah! Nutrisi diserap di usus halus."
+          },
+          {
+            "text": "Mengunyah makanan",
+            "feedback": "Salah! Makanan dikunyah di mulut."
+          },
+          {
+            "text": "Menghancurkan makanan secara mekanis dan kimiawi",
+            "feedback": "Benar! Lambung menghancurkan makanan dengan asam lambung dan enzim pepsin."
+          },
+          {
+            "text": "Menghantarkan makanan ke lambung",
+            "feedback": "Salah! Fungsi ini dilakukan oleh kerongkongan."
+          }
+        ],
+        "answer_index": 2
+      },
+      {
+        "question": [
+          "<p>Organ yang ditunjuk adalah usus halus. Apa fungsi utama usus halus dalam proses pencernaan?</p>"
+        ],
+        "options": [
+          {
+            "text": "Menyerap air",
+            "feedback": "Salah! Air diserap di usus besar."
+          },
+          {
+            "text": "Menyerap nutrisi",
+            "feedback": "Benar! Usus halus bertugas menyerap nutrisi dari makanan yang dicerna."
+          },
+          {
+            "text": "Mengunyah makanan",
+            "feedback": "Salah! Makanan dikunyah di mulut."
+          },
+          {
+            "text": "Membentuk feses",
+            "feedback": "Salah! Feses dibentuk di usus besar."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Organ yang ditunjuk adalah kerongkongan. Apa fungsi utama kerongkongan dalam proses pencernaan?</p>"
+        ],
+        "options": [
+          {
+            "text": "Menghancurkan makanan secara kimiawi",
+            "feedback": "Salah! Fungsi ini dilakukan oleh lambung."
+          },
+          {
+            "text": "Menghantarkan makanan ke lambung",
+            "feedback": "Benar! Kerongkongan menghantarkan makanan dari mulut ke lambung dengan gerakan peristaltik."
+          },
+          {
+            "text": "Menyerap nutrisi",
+            "feedback": "Salah! Nutrisi diserap di usus halus."
+          },
+          {
+            "text": "Membentuk feses",
+            "feedback": "Salah! Feses dibentuk di usus besar."
+          }
+        ],
+        "answer_index": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Menghitung Kalori dari Makanan",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Kalori</b></p>",
+          "<p>Kalori adalah satuan energi yang diperoleh tubuh dari makanan dan minuman. Tubuh manusia memerlukan kalori untuk melakukan aktivitas sehari-hari, seperti bergerak, berpikir, dan bernapas.</p>",
+          "<p>Makanan yang kita konsumsi mengandung zat gizi utama seperti karbohidrat, protein, dan lemak. Ketiga zat ini memberikan energi dengan nilai kalori sebagai berikut:</p>",
+          "<ul>",
+          "  <li>Karbohidrat: 4 kalori per gram</li>",
+          "  <li>Protein: 4 kalori per gram</li>",
+          "  <li>Lemak: 9 kalori per gram</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<ul>",
+          "  <li>Karbohidrat: 4 kalori per gram</li>",
+          "  <li>Protein: 4 kalori per gram</li>",
+          "  <li>Lemak: 9 kalori per gram</li>",
+          "</ul>",
+          "<p>Berikut adalah contoh menghitung kalori dari sepiring nasi:</p>",
+          "<ul>",
+          "  <li><span class='black-bold'>Karbohidrat:</span> 40 gram × 4 = 160 kalori</li>",
+          "  <li><span class='black-bold'>Protein:</span> 4 gram × 4 = 16 kalori</li>",
+          "  <li><span class='black-bold'>Lemak:</span> 1 gram × 9 = 9 kalori</li>",
+          "</ul>",
+          "<p><b>Total Kalori:</b> 160 + 16 + 9 = 185 kalori</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Jika sepiring nasi mengandung 40 gram karbohidrat, 4 gram protein, dan 1 gram lemak, berapa total kalori yang diperoleh?</p>"
+        ],
+        "options": [
+          {
+            "text": "160 kalori",
+            "feedback": "Salah! Ini hanya menghitung kalori dari karbohidrat saja."
+          },
+          {
+            "text": "185 kalori",
+            "feedback": "Benar! Total kalori dihitung dari karbohidrat, protein, dan lemak."
+          },
+          {
+            "text": "175 kalori",
+            "feedback": "Salah! Hitungan ini tidak sesuai dengan total kalori sebenarnya."
+          },
+          {
+            "text": "200 kalori",
+            "feedback": "Salah! Hitungan ini terlalu tinggi."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Berapa kalori yang dihasilkan oleh 4 gram protein dalam sepiring nasi?</p>"
+        ],
+        "options": [
+          {
+            "text": "9 kalori",
+            "feedback": "Salah! 9 kalori berasal dari lemak."
+          },
+          {
+            "text": "16 kalori",
+            "feedback": "Benar! Protein menghasilkan 4 kalori per gram."
+          },
+          {
+            "text": "40 kalori",
+            "feedback": "Salah! Jumlah ini terlalu tinggi."
+          },
+          {
+            "text": "160 kalori",
+            "feedback": "Salah! Ini adalah kalori dari karbohidrat."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Dari zat gizi berikut, manakah yang memberikan energi paling besar per gram?</p>"
+        ],
+        "options": [
+          {
+            "text": "Karbohidrat",
+            "feedback": "Salah! Karbohidrat memberikan 4 kalori per gram."
+          },
+          {
+            "text": "Protein",
+            "feedback": "Salah! Protein memberikan 4 kalori per gram."
+          },
+          {
+            "text": "Lemak",
+            "feedback": "Benar! Lemak memberikan 9 kalori per gram."
+          },
+          {
+            "text": "Vitamin",
+            "feedback": "Salah! Vitamin tidak memberikan kalori."
+          }
+        ],
+        "answer_index": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Urutan Sistem Peredaran Darah Besar dan Kecil",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Sistem Peredaran Darah</b></p>",
+          "<p>Sistem peredaran darah pada manusia terdiri dari dua jenis sirkulasi, yaitu peredaran darah besar dan peredaran darah kecil. Kedua sistem ini memiliki peran penting dalam mendistribusikan darah ke seluruh tubuh.</p>",
+          "<p><b>Sistem Peredaran Darah Besar</b></p>",
+          "<p>Sistem peredaran darah besar dimulai dari ventrikel kiri jantung, darah yang mengandung oksigen dipompa ke seluruh tubuh melalui aorta. Darah akan melewati arteri, arteriol, dan akhirnya mencapai kapiler di seluruh tubuh untuk bertukar oksigen dan nutrisi dengan sel-sel tubuh. Setelah proses pertukaran, darah yang kekurangan oksigen mengalir kembali melalui venula, vena, dan kembali ke atrium kanan jantung melalui vena cava.</p>",
+          "<p><b>Sistem Peredaran Darah Kecil</b></p>",
+          "<p>Sistem peredaran darah kecil dimulai dari ventrikel kanan jantung, darah yang kekurangan oksigen dipompa menuju paru-paru melalui arteri pulmonalis. Di paru-paru, darah akan menghirup oksigen dan melepaskan karbon dioksida. Setelah itu, darah yang sudah kaya oksigen kembali ke atrium kiri jantung melalui vena pulmonalis.</p>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p>Berikut adalah urutan sistem peredaran darah:</p>",
+          "<p><b>Sistem Peredaran Darah Besar:</b></p>",
+          "<ol>",
+          "  <li>Ventrikel kiri jantung</li>",
+          "  <li>Aorta</li>",
+          "  <li>Arteri</li>",
+          "  <li>Arteriol</li>",
+          "  <li>Kapiler</li>",
+          "  <li>Venula</li>",
+          "  <li>Vena</li>",
+          "  <li>Vena cava</li>",
+          "  <li>Atrium kanan jantung</li>",
+          "</ol>",
+          "<p><b>Sistem Peredaran Darah Kecil:</b></p>",
+          "<ol>",
+          "  <li>Ventrikel kanan jantung</li>",
+          "  <li>Arteri pulmonalis</li>",
+          "  <li>Paru-paru</li>",
+          "  <li>Vena pulmonalis</li>",
+          "  <li>Atrium kiri jantung</li>",
+          "</ol>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Urutan sistem peredaran darah besar dimulai dari bagian mana?</p>"
+        ],
+        "options": [
+          {
+            "text": "Ventrikel kiri jantung",
+            "feedback": "Benar! Sistem peredaran darah besar dimulai dari ventrikel kiri jantung."
+          },
+          {
+            "text": "Atrium kanan jantung",
+            "feedback": "Salah! Urutan yang benar dimulai dari ventrikel kiri jantung."
+          },
+          {
+            "text": "Ventrikel kanan jantung",
+            "feedback": "Salah! Ventrikel kanan jantung adalah bagian yang memulai peredaran darah kecil."
+          },
+          {
+            "text": "Aorta",
+            "feedback": "Salah! Aorta adalah saluran utama yang membawa darah keluar dari ventrikel kiri."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Urutan sistem peredaran darah kecil dimulai dari bagian mana?</p>"
+        ],
+        "options": [
+          {
+            "text": "Ventrikel kanan jantung",
+            "feedback": "Benar! Sistem peredaran darah kecil dimulai dari ventrikel kanan jantung."
+          },
+          {
+            "text": "Aorta",
+            "feedback": "Salah! Aorta adalah bagian dari sistem peredaran darah besar."
+          },
+          {
+            "text": "Atrium kiri jantung",
+            "feedback": "Salah! Atrium kiri jantung menerima darah dari paru-paru dalam sistem peredaran darah kecil."
+          },
+          {
+            "text": "Ventrikel kiri jantung",
+            "feedback": "Salah! Ventrikel kiri jantung memulai peredaran darah besar."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Mekanisme Pernapasan Dada dan Perut",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengenalan Mekanisme Pernapasan</b></p>",
+          "<p>Pernapasan adalah proses memasukkan oksigen ke dalam tubuh dan mengeluarkan karbon dioksida dari tubuh. Pernapasan dapat dilakukan dengan dua mekanisme utama, yaitu pernapasan dada dan pernapasan perut.</p>",
+          "<p><b>Pernapasan Dada</b></p>",
+          "<p>Pernapasan dada terjadi ketika otot-otot di sekitar tulang rusuk, yaitu otot interkostal, berkontraksi dan menyebabkan tulang rusuk bergerak ke atas dan keluar. Hal ini mengurangi tekanan di dalam rongga dada dan memungkinkan udara masuk ke paru-paru. Ketika otot-otot ini relaksasi, tulang rusuk akan turun, udara akan keluar dari paru-paru.</p>",
+          "<p><b>Pernapasan Perut</b></p>",
+          "<p>Pernapasan perut terjadi ketika diafragma (otot besar di bawah paru-paru) bergerak naik dan turun. Ketika diafragma turun, rongga dada membesar dan udara masuk ke paru-paru (inhalasi). Sebaliknya, saat diafragma naik, rongga dada menyempit dan udara dikeluarkan dari paru-paru (ekshalasi). Pernapasan perut biasanya lebih dalam dan dapat meningkatkan kapasitas paru-paru.</p>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Perbedaan Pernapasan Dada dan Perut</b></p>",
+          "<ul>",
+          "  <li>Pernapasan dada melibatkan gerakan tulang rusuk yang naik dan turun, sedangkan pernapasan perut melibatkan gerakan diafragma yang naik dan turun.</li>",
+          "  <li>Pernapasan dada lebih dangkal, sedangkan pernapasan perut lebih dalam.</li>",
+          "  <li>Pernapasan dada digunakan ketika seseorang sedang beraktivitas ringan, sedangkan pernapasan perut lebih efektif saat beristirahat atau tidur.</li>",
+          "</ul>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Bagaimana mekanisme pernapasan dada terjadi?</p>"
+        ],
+        "options": [
+          {
+            "text": "Otot interkostal berkontraksi dan tulang rusuk bergerak ke atas dan keluar.",
+            "feedback": "Benar! Otot interkostal berkontraksi menyebabkan tulang rusuk bergerak ke atas dan keluar, yang membuat udara masuk ke paru-paru."
+          },
+          {
+            "text": "Diafragma bergerak naik dan turun.",
+            "feedback": "Salah! Ini adalah mekanisme pernapasan perut, bukan pernapasan dada."
+          },
+          {
+            "text": "Udara langsung masuk tanpa melibatkan gerakan tubuh.",
+            "feedback": "Salah! Pernapasan melibatkan gerakan otot-otot tubuh, baik dada maupun perut."
+          },
+          {
+            "text": "Otot-otot tubuh tetap diam dan udara masuk dengan sendirinya.",
+            "feedback": "Salah! Gerakan otot diperlukan untuk pernapasan dada dan perut."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Perbedaan utama antara pernapasan dada dan pernapasan perut adalah?</p>"
+        ],
+        "options": [
+          {
+            "text": "Pernapasan dada melibatkan tulang rusuk, sedangkan pernapasan perut melibatkan diafragma.",
+            "feedback": "Benar! Pernapasan dada melibatkan gerakan tulang rusuk, sementara pernapasan perut melibatkan gerakan diafragma."
+          },
+          {
+            "text": "Pernapasan dada lebih dalam daripada pernapasan perut.",
+            "feedback": "Salah! Pernapasan dada lebih dangkal, sementara pernapasan perut lebih dalam."
+          },
+          {
+            "text": "Pernapasan dada hanya terjadi saat tidur, sedangkan pernapasan perut terjadi saat beraktivitas.",
+            "feedback": "Salah! Pernapasan dada terjadi saat aktivitas ringan, dan pernapasan perut lebih banyak digunakan saat beristirahat atau tidur."
+          },
+          {
+            "text": "Keduanya melibatkan gerakan yang sama.",
+            "feedback": "Salah! Meskipun keduanya melibatkan gerakan tubuh, cara kerjanya berbeda."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Organ Ekskresi dan Zat yang Dikeluarkan",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengenalan Sistem Ekskresi</b></p>",
+          "<p>Sistem ekskresi adalah sistem tubuh yang berfungsi untuk mengeluarkan zat-zat yang tidak dibutuhkan tubuh, seperti sisa-sisa metabolisme dan produk-produk sisa lainnya. Organ-organ ekskresi memiliki peran yang berbeda dalam proses pengeluaran zat tersebut.</p>",
+          "<p><b>Organ Ekskresi dan Zat yang Dikeluarkan</b></p>",
+          "<table border='1'>",
+          "<thead><tr><th>Organ Ekskresi</th><th>Zat yang Dikeluarkan</th></tr></thead>",
+          "<tbody>",
+          "  <tr><td>Ginjal</td><td>Urin (air, urea, garam, produk samping metabolisme)</td></tr>",
+          "  <tr><td>Paru-paru</td><td>Karbon dioksida (CO2), uap air</td></tr>",
+          "  <tr><td>Kulit</td><td>Peluh (air, garam, urea)</td></tr>",
+          "  <tr><td>Hati</td><td>Produk samping metabolisme (bilirubin, amonia, dll.)</td></tr>",
+          "</tbody>",
+          "</table>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Penjelasan Setiap Organ Ekskresi</b></p>",
+          "<ul>",
+          "  <li><b>Ginjal:</b> Ginjal bertugas untuk menyaring darah dan mengeluarkan zat-zat yang tidak diperlukan tubuh dalam bentuk urin. Zat-zat yang dikeluarkan meliputi air, urea, garam, dan produk sampingan metabolisme lainnya.</li>",
+          "  <li><b>Paru-paru:</b> Paru-paru mengeluarkan karbon dioksida (CO2) yang merupakan hasil samping dari metabolisme sel. Selain itu, paru-paru juga mengeluarkan uap air melalui proses pernapasan.</li>",
+          "  <li><b>Kulit:</b> Kulit mengeluarkan peluh yang mengandung air, garam, dan urea. Peluh membantu tubuh untuk menjaga suhu tubuh agar tetap stabil.</li>",
+          "  <li><b>Hati:</b> Hati berperan dalam mengolah zat-zat berbahaya, seperti amonia, dan mengubahnya menjadi zat yang tidak berbahaya. Zat-zat tersebut dikeluarkan dalam bentuk bilirubin yang masuk ke dalam empedu dan kemudian dibuang ke usus.</li>",
+          "</ul>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Organ ekskresi manakah yang mengeluarkan karbon dioksida dan uap air?</p>"
+        ],
+        "options": [
+          {
+            "text": "Ginjal",
+            "feedback": "Salah! Ginjal mengeluarkan urin yang mengandung urea, air, dan garam."
+          },
+          {
+            "text": "Paru-paru",
+            "feedback": "Benar! Paru-paru mengeluarkan karbon dioksida dan uap air melalui pernapasan."
+          },
+          {
+            "text": "Kulit",
+            "feedback": "Salah! Kulit mengeluarkan peluh yang mengandung air, garam, dan urea."
+          },
+          {
+            "text": "Hati",
+            "feedback": "Salah! Hati mengeluarkan produk sampingan metabolisme dalam bentuk bilirubin."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Zat apa yang dikeluarkan oleh kulit melalui peluh?</p>"
+        ],
+        "options": [
+          {
+            "text": "Air, garam, dan urea",
+            "feedback": "Benar! Kulit mengeluarkan peluh yang mengandung air, garam, dan urea."
+          },
+          {
+            "text": "Karbon dioksida dan uap air",
+            "feedback": "Salah! Karbon dioksida dan uap air dikeluarkan oleh paru-paru."
+          },
+          {
+            "text": "Urin",
+            "feedback": "Salah! Urin dikeluarkan oleh ginjal, bukan oleh kulit."
+          },
+          {
+            "text": "Bilirubin",
+            "feedback": "Salah! Bilirubin dikeluarkan oleh hati melalui empedu."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Bagian Kulit yang Berperan dalam Sistem Ekskresi",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengenalan Kulit dan Fungsinya dalam Sistem Ekskresi</b></p>",
+          "<p>Kulit adalah organ terbesar dalam tubuh manusia, yang berfungsi sebagai pelindung tubuh dari lingkungan luar. Selain itu, kulit juga berperan dalam proses ekskresi, yakni mengeluarkan produk sisa dari tubuh.</p>",
+          "<p>Bagian kulit yang berperan dalam sistem ekskresi adalah kelenjar keringat, yang mengeluarkan peluh yang mengandung air, garam, dan urea.</p>",
+          "<p>Berikut adalah ilustrasi bagian kulit yang berperan dalam sistem ekskresi:</p>",
+          "<img src='https://i.pinimg.com/736x/84/4e/91/844e91f01c075935060f0f99c810d5a6.jpg' alt='Ilustrasi Kulit dan Kelenjar Keringat' width='70%'/>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Bagian Kulit yang Berperan dalam Ekskresi</b></p>",
+          "<ul>",
+          "  <li><b>Kelenjar Keringat:</b> Kelenjar ini terletak di dalam kulit dan bertugas untuk menghasilkan peluh yang mengandung air, garam, dan urea. Peluh ini membantu tubuh dalam proses pengaturan suhu dan juga mengeluarkan produk sisa seperti urea.</li>",
+          "  <li><b>Epidermis:</b> Lapisan terluar kulit ini berfungsi sebagai pelindung dan juga sebagai tempat kelenjar keringat berada. Meskipun epidermis tidak langsung mengeluarkan zat, ia berperan dalam menyaring dan mengatur kelembapan kulit.</li>",
+          "  <li><b>Dermis:</b> Dermis adalah lapisan kulit yang lebih dalam dan mengandung pembuluh darah serta kelenjar keringat. Pembuluh darah ini membantu mengatur suhu tubuh dengan membawa panas ke permukaan kulit untuk dikeluarkan dalam bentuk peluh.</li>",
+          "</ul>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Bagian kulit manakah yang mengeluarkan peluh yang mengandung air, garam, dan urea?</p>"
+        ],
+        "options": [
+          {
+            "text": "Epidermis",
+            "feedback": "Salah! Epidermis adalah lapisan terluar kulit yang berfungsi sebagai pelindung, bukan sebagai penghasil peluh."
+          },
+          {
+            "text": "Dermis",
+            "feedback": "Salah! Dermis adalah lapisan kulit yang mengandung pembuluh darah dan kelenjar keringat, tetapi yang menghasilkan peluh adalah kelenjar keringat."
+          },
+          {
+            "text": "Kelenjar Keringat",
+            "feedback": "Benar! Kelenjar keringat terletak di dermis dan bertugas menghasilkan peluh yang mengandung air, garam, dan urea."
+          },
+          {
+            "text": "Pembuluh Darah",
+            "feedback": "Salah! Pembuluh darah berfungsi untuk mengatur suhu tubuh, tetapi bukan untuk mengeluarkan peluh."
+          }
+        ],
+        "answer_index": 2
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Enzim yang Berperan dalam Sistem Pencernaan dan Fungsinya",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Enzim Pencernaan</b></p>",
+          "<p>Enzim pencernaan adalah protein yang membantu mempercepat proses pencernaan makanan menjadi zat yang dapat diserap oleh tubuh. Setiap enzim memiliki fungsi spesifik yang bekerja pada jenis zat makanan tertentu.</p>",
+          "<p>Berikut adalah beberapa enzim yang berperan dalam sistem pencernaan manusia:</p>",
+          "<table border='1'>",
+          "<thead>",
+          "  <tr>",
+          "    <th>Nama Enzim</th>",
+          "    <th>Fungsi</th>",
+          "  </tr>",
+          "</thead>",
+          "<tbody>",
+          "  <tr>",
+          "    <td>Amilase</td>",
+          "    <td>Memecah karbohidrat menjadi gula sederhana (maltosa), dimulai di mulut.</td>",
+          "  </tr>",
+          "  <tr>",
+          "    <td>Pepsin</td>",
+          "    <td>Memecah protein menjadi pepton di lambung.</td>",
+          "  </tr>",
+          "  <tr>",
+          "    <td>Tripsin</td>",
+          "    <td>Melanjutkan pemecahan protein menjadi asam amino di usus halus.</td>",
+          "  </tr>",
+          "  <tr>",
+          "    <td>Laktase</td>",
+          "    <td>Memecah laktosa menjadi glukosa dan galaktosa di usus halus.</td>",
+          "  </tr>",
+          "  <tr>",
+          "    <td>Amilase Pankreas</td>",
+          "    <td>Memecah karbohidrat menjadi maltosa di usus halus.</td>",
+          "  </tr>",
+          "  <tr>",
+          "    <td>Lipase</td>",
+          "    <td>Memecah lemak menjadi asam lemak dan gliserol di usus halus.</td>",
+          "  </tr>",
+          "</tbody>",
+          "</table>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Fungsi Enzim dalam Pencernaan</b></p>",
+          "<p>Setiap enzim bekerja secara spesifik untuk mengubah bahan makanan menjadi bentuk yang dapat diserap tubuh. Enzim-enzim ini bekerja bersama-sama untuk memastikan bahwa pencernaan berjalan dengan baik, mulai dari mulut hingga usus halus.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Enzim manakah yang berfungsi untuk memecah karbohidrat menjadi gula sederhana (maltosa)?</p>"
+        ],
+        "options": [
+          {
+            "text": "Pepsin",
+            "feedback": "Salah! Pepsin berfungsi memecah protein di lambung, bukan karbohidrat."
+          },
+          {
+            "text": "Amilase",
+            "feedback": "Benar! Amilase memecah karbohidrat menjadi maltosa, dimulai di mulut."
+          },
+          {
+            "text": "Lipase",
+            "feedback": "Salah! Lipase berfungsi memecah lemak, bukan karbohidrat."
+          },
+          {
+            "text": "Laktase",
+            "feedback": "Salah! Laktase memecah laktosa, bukan karbohidrat umum."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Enzim yang berperan dalam memecah protein menjadi pepton di lambung adalah...</p>"
+        ],
+        "options": [
+          {
+            "text": "Lipase",
+            "feedback": "Salah! Lipase memecah lemak, bukan protein."
+          },
+          {
+            "text": "Amilase",
+            "feedback": "Salah! Amilase memecah karbohidrat, bukan protein."
+          },
+          {
+            "text": "Pepsin",
+            "feedback": "Benar! Pepsin berfungsi memecah protein menjadi pepton di lambung."
+          },
+          {
+            "text": "Tripsin",
+            "feedback": "Salah! Tripsin berfungsi di usus halus untuk melanjutkan pemecahan protein."
+          }
+        ],
+        "answer_index": 2
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Urutan Sistem Peredaran Darah",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Sistem Peredaran Darah</b></p>",
+          "<p>Sistem peredaran darah adalah jaringan pembuluh darah yang membawa darah ke seluruh tubuh. Darah membawa oksigen, nutrisi, dan hormon ke berbagai bagian tubuh serta mengangkut produk sampingan metabolisme untuk dibuang oleh organ ekskresi.</p>",
+          "<p>Sistem peredaran darah terdiri dari dua sirkulasi utama:</p>",
+          "<ul>",
+          "  <li><b>Sistem Peredaran Darah Kecil</b>: Dimulai dari jantung ke paru-paru untuk mengambil oksigen dan membuang karbon dioksida.</li>",
+          "  <li><b>Sistem Peredaran Darah Besar</b>: Dimulai dari jantung ke seluruh tubuh untuk mendistribusikan oksigen dan nutrisi, kemudian kembali lagi ke jantung.</li>",
+          "</ul>",
+          "<p><b>Urutan Sistem Peredaran Darah:</b></p>",
+          "<ol>",
+          "  <li>Darah yang kekurangan oksigen dari tubuh masuk ke atrium kanan jantung.</li>",
+          "  <li>Darah dipompa dari atrium kanan ke ventrikel kanan.</li>",
+          "  <li>Darah dipompa dari ventrikel kanan ke paru-paru melalui arteri pulmonalis untuk mengambil oksigen.</li>",
+          "  <li>Darah yang kaya oksigen kembali ke atrium kiri jantung dari paru-paru melalui vena pulmonalis.</li>",
+          "  <li>Darah dipompa dari atrium kiri ke ventrikel kiri.</li>",
+          "  <li>Darah dipompa dari ventrikel kiri ke seluruh tubuh melalui aorta.</li>",
+          "  <li>Darah yang kaya oksigen disalurkan ke seluruh tubuh, dan darah yang kekurangan oksigen kembali ke jantung melalui vena cava.</li>",
+          "</ol>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Fungsi Sistem Peredaran Darah</b></p>",
+          "<p>Sistem peredaran darah berfungsi untuk mengantarkan oksigen dan nutrisi ke sel-sel tubuh serta mengeluarkan produk sampingan seperti karbon dioksida dan urea. Dengan demikian, sistem ini sangat penting untuk kelangsungan hidup dan fungsi tubuh yang optimal.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Urutan yang benar dari sistem peredaran darah dimulai dengan...</p>"
+        ],
+        "options": [
+          {
+            "text": "Darah kekurangan oksigen masuk ke atrium kiri.",
+            "feedback": "Salah! Darah yang kekurangan oksigen masuk ke atrium kanan, bukan kiri."
+          },
+          {
+            "text": "Darah kekurangan oksigen masuk ke atrium kanan.",
+            "feedback": "Benar! Proses dimulai dengan darah yang kekurangan oksigen masuk ke atrium kanan jantung."
+          },
+          {
+            "text": "Darah kaya oksigen masuk ke ventrikel kanan.",
+            "feedback": "Salah! Darah yang kaya oksigen masuk ke atrium kiri, bukan ventrikel kanan."
+          },
+          {
+            "text": "Darah kaya oksigen masuk ke atrium kanan.",
+            "feedback": "Salah! Darah yang kaya oksigen masuk ke atrium kiri, bukan kanan."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Dimanakah darah mengalir setelah dipompa dari ventrikel kanan?</p>"
+        ],
+        "options": [
+          {
+            "text": "Ke paru-paru melalui vena cava.",
+            "feedback": "Salah! Darah dipompa ke paru-paru melalui arteri pulmonalis, bukan vena cava."
+          },
+          {
+            "text": "Ke paru-paru melalui arteri pulmonalis.",
+            "feedback": "Benar! Darah dipompa dari ventrikel kanan ke paru-paru melalui arteri pulmonalis."
+          },
+          {
+            "text": "Ke seluruh tubuh melalui aorta.",
+            "feedback": "Salah! Darah dipompa ke seluruh tubuh melalui aorta setelah kembali ke ventrikel kiri."
+          },
+          {
+            "text": "Ke seluruh tubuh melalui vena pulmonalis.",
+            "feedback": "Salah! Vena pulmonalis mengalirkan darah yang sudah kaya oksigen ke atrium kiri, bukan ke tubuh."
+          }
+        ],
+        "answer_index": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Menghitung Kapasitas Vital dan Kapasitas Total Paru-paru",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Kapasitas Vital dan Kapasitas Total Paru-paru</b></p>",
+          "<p><b>Kapasitas Vital</b> adalah jumlah udara yang dapat dikeluarkan setelah menarik napas dalam-dalam dan mengeluarkannya sebanyak mungkin. Kapasitas vital merupakan jumlah dari tiga volume udara dalam sistem pernapasan, yaitu Volume Tidal (VT), Volume Cadangan Inspirasi (IC), dan Volume Cadangan Ekspirasi (EC).</p>",
+          "<p><b>Kapasitas Total Paru-paru</b> adalah jumlah udara yang dapat ditampung oleh paru-paru saat paru-paru mengembang sepenuhnya. Kapasitas total paru-paru terdiri dari kapasitas vital ditambah dengan volume sisa (volume udara yang tetap ada di paru-paru setelah ekspirasi maksimal).</p>",
+          "<p><b>Volume Tidal (VT)</b> adalah jumlah udara yang masuk dan keluar dari paru-paru dengan satu kali napas normal, tanpa usaha maksimal. Volume ini adalah volume udara yang digunakan dalam proses pernapasan sehari-hari.</p>",
+          "<p><b>Volume Cadangan Inspirasi (IC)</b> adalah jumlah udara yang dapat dihirup setelah menarik napas normal. Ini adalah volume udara tambahan yang bisa dihirup setelah napas biasa (normal). Misalnya, jika seseorang bernapas secara normal, volume IC adalah udara tambahan yang bisa dihirup setelah itu.</p>",
+          "<p><b>Volume Cadangan Ekspirasi (EC)</b> adalah jumlah udara yang dapat dikeluarkan setelah menghembuskan napas normal. Ini adalah volume udara yang bisa dikeluarkan setelah ekspirasi biasa, yang menunjukkan kapasitas paru-paru untuk mengeluarkan udara lebih banyak dari yang diperlukan untuk pernapasan normal.</p>",
+          "<p>Formula yang digunakan untuk menghitung kapasitas vital dan kapasitas total paru-paru adalah:</p>",
+          "<ul>",
+          "  <li><b>Kapasitas Vital (KV)</b> = Volume Tidal (VT) + Volume Cadangan Inspirasi (IC) + Volume Cadangan Ekspirasi (EC)</li>",
+          "  <li><b>Kapasitas Total Paru-paru (KTP)</b> = Kapasitas Vital (KV) + Volume Sisa (RV)</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Contoh Grafik Kapasitas Paru-paru</b></p>",
+          "<p>Berikut adalah contoh grafik yang menunjukkan kapasitas paru-paru:</p>",
+          "<img src='https://imgix2.ruangguru.com/assets/miscellaneous/png_i8vwtt_4887.png' alt='' width='70%' />",
+          "<p>Dalam grafik ini, kita dapat melihat berbagai volume udara yang terlibat dalam siklus pernapasan dan menghitung kapasitas vital serta kapasitas total paru-paru berdasarkan data yang diberikan.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Jika volume tidal (VT) 500 ml, volume cadangan inspirasi (IC) 1500 ml, dan volume cadangan ekspirasi (EC) 1000 ml, berapakah kapasitas vital paru-paru?</p>"
+        ],
+        "options": [
+          {
+            "text": "3000 ml",
+            "feedback": "Benar! Kapasitas vital dihitung dengan menjumlahkan VT, IC, dan EC: 500 + 1500 + 1000 = 3000 ml."
+          },
+          {
+            "text": "2500 ml",
+            "feedback": "Salah! Hitungan ini tidak sesuai dengan kapasitas vital yang benar."
+          },
+          {
+            "text": "4000 ml",
+            "feedback": "Salah! Hitungan ini terlalu tinggi untuk kapasitas vital."
+          },
+          {
+            "text": "3500 ml",
+            "feedback": "Salah! Hitungan ini tidak sesuai dengan data yang diberikan."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Jika kapasitas vital (KV) 3000 ml dan volume sisa (RV) 1500 ml, berapakah kapasitas total paru-paru?</p>"
+        ],
+        "options": [
+          {
+            "text": "4500 ml",
+            "feedback": "Benar! Kapasitas total paru-paru dihitung dengan menambahkan kapasitas vital dan volume sisa: 3000 + 1500 = 4500 ml."
+          },
+          {
+            "text": "4000 ml",
+            "feedback": "Salah! Hitungan ini tidak sesuai dengan kapasitas total paru-paru."
+          },
+          {
+            "text": "5000 ml",
+            "feedback": "Salah! Hitungan ini terlalu tinggi untuk kapasitas total paru-paru."
+          },
+          {
+            "text": "3500 ml",
+            "feedback": "Salah! Hitungan ini tidak sesuai dengan kapasitas total paru-paru yang benar."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Bagian dan Fungsi Nefron Ginjal dalam Proses Filtrasi, Reabsorpsi, dan Augmentasi",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Nefron Ginjal</b></p>",
+          "<p>Nefron adalah unit fungsional ginjal yang berperan penting dalam proses penyaringan darah dan pembentukan urine. Setiap ginjal manusia memiliki sekitar 1 juta nefron yang terdiri dari beberapa bagian, masing-masing berperan dalam proses ekskresi melalui mekanisme filtrasi, reabsorpsi, dan augmentasi.</p>",
+          "<p>Berikut adalah proses-proses utama yang terjadi dalam nefron:</p>",
+          "<ul>",
+          "  <li><b>Filtrasi:</b> Penyaringan darah untuk menghasilkan filtrat glomerulus yang mengandung air, garam, urea, glukosa, dan zat-zat lainnya.</li>",
+          "  <li><b>Reabsorpsi:</b> Penyerapan kembali sebagian besar zat yang diperlukan tubuh, seperti air, garam, dan glukosa, dari filtrat ke dalam darah.</li>",
+          "  <li><b>Augmentasi (Sekresi):</b> Proses pengeluaran zat-zat yang tidak dibutuhkan tubuh, seperti ion hidrogen dan kalium, dari darah ke dalam filtrat untuk dibuang dalam urine.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Bagian-bagian Nefron dan Fungsinya:</b></p>",
+          "<img src='https://imgix2.ruangguru.com/assets/miscellaneous/png_afvwgo_8088.png' alt='' width='70%' />",
+          "<ul>",
+          "  <li><b>Glomerulus:</b> Pembuluh darah yang menyaring darah. Proses filtrasi terjadi di sini, menghasilkan filtrat yang terdiri dari air, garam, glukosa, urea, dan zat lainnya.</li>",
+          "  <li><b>Kapsula Bowman:</b> Tempat penampungan filtrat glomerulus yang akan diproses lebih lanjut. Tidak ada proses reabsorpsi atau augmentasi di sini, hanya penampungan filtrat.</li>",
+          "  <li><b>Tubulus Proksimal:</b> Di sini terjadi reabsorpsi sebagian besar zat yang disaring, termasuk glukosa, natrium, dan air, yang akan kembali ke dalam darah.</li>",
+          "  <li><b>Lengkung Henle:</b> Berfungsi dalam pengaturan keseimbangan air dan elektrolit, dan mengonsentrasikan urin. Pada bagian ini terjadi proses augmentasi, yaitu pengeluaran zat-zat yang tidak dibutuhkan tubuh, seperti ion hidrogen dan kalium.</li>",
+          "  <li><b>Tubulus Distal:</b> Proses reabsorpsi lanjutan terjadi di sini, terutama ion natrium dan kalium. Selain itu, augmentasi juga terjadi di bagian ini untuk mengeluarkan zat-zat yang tidak diperlukan tubuh.</li>",
+          "  <li><b>Saluran Pengumpul:</b> Di sini, urin yang telah difilter dan diproses akan dikumpulkan sebelum dikeluarkan melalui ureter. Pengaturan keseimbangan air masih berlangsung di sini, dengan proses terakhir dari reabsorpsi dan sekresi.</li>",
+          "</ul>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Bagian manakah dari nefron yang berfungsi untuk proses filtrasi darah?</p>"
+        ],
+        "options": [
+          {
+            "text": "Glomerulus",
+            "feedback": "Benar! Glomerulus berfungsi untuk menyaring darah dan menghasilkan filtrat glomerulus."
+          },
+          {
+            "text": "Tubulus Proksimal",
+            "feedback": "Salah! Tubulus Proksimal berfungsi untuk reabsorpsi, bukan untuk penyaringan darah."
+          },
+          {
+            "text": "Lengkung Henle",
+            "feedback": "Salah! Lengkung Henle berperan dalam pengaturan keseimbangan air dan elektrolit serta augmentasi, bukan filtrasi."
+          },
+          {
+            "text": "Kapsula Bowman",
+            "feedback": "Salah! Kapsula Bowman berfungsi sebagai tempat penampungan filtrat, bukan untuk proses filtrasi darah."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Proses penyerapan kembali zat-zat seperti glukosa dan natrium terjadi pada bagian nefron mana?</p>"
+        ],
+        "options": [
+          {
+            "text": "Tubulus Proksimal",
+            "feedback": "Benar! Tubulus Proksimal berfungsi untuk reabsorpsi sebagian besar zat-zat yang disaring, termasuk glukosa dan natrium."
+          },
+          {
+            "text": "Glomerulus",
+            "feedback": "Salah! Glomerulus berfungsi untuk filtrasi, bukan reabsorpsi."
+          },
+          {
+            "text": "Lengkung Henle",
+            "feedback": "Salah! Lengkung Henle berperan dalam pengaturan keseimbangan air dan elektrolit, bukan reabsorpsi utama."
+          },
+          {
+            "text": "Saluran Pengumpul",
+            "feedback": "Salah! Saluran Pengumpul berfungsi untuk mengumpulkan urin, bukan untuk reabsorpsi zat utama."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Di bagian manakah proses augmentasi (sekresi) yang melibatkan pengeluaran ion hidrogen dan kalium dari darah terjadi?</p>"
+        ],
+        "options": [
+          {
+            "text": "Lengkung Henle dan Tubulus Distal",
+            "feedback": "Benar! Augmentasi terjadi di Lengkung Henle dan Tubulus Distal, di mana ion hidrogen dan kalium dikeluarkan ke dalam filtrat."
+          },
+          {
+            "text": "Tubulus Proksimal",
+            "feedback": "Salah! Tubulus Proksimal berfungsi untuk reabsorpsi, bukan sekresi."
+          },
+          {
+            "text": "Saluran Pengumpul",
+            "feedback": "Salah! Saluran Pengumpul berfungsi untuk pengumpulan urin, meski masih ada sedikit sekresi di sini."
+          },
+          {
+            "text": "Glomerulus",
+            "feedback": "Salah! Glomerulus berfungsi untuk filtrasi, bukan untuk sekresi."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Mengidentifikasi Fungsi Bagian Ginjal",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Ginjal</b></p>",
+          "<p>Ginjal adalah organ penting dalam tubuh manusia yang berfungsi untuk menyaring darah, mengeluarkan produk sisa dari metabolisme, serta mengatur keseimbangan air dan elektrolit. Ginjal terdiri dari beberapa bagian yang masing-masing memiliki fungsi tertentu dalam proses ekskresi.</p>",
+          "<img src='https://roboguru-forum-cdn.ruangguru.com/4d8f394b-dcab-40e0-ad92-bf26d658d527.jpg?convert=png' alt='Bagan Pembekuan Darah' width='70%'/>",
+          "<p>Berikut adalah beberapa bagian utama ginjal beserta fungsinya:</p>",
+          "<ul>",
+          "  <li><b>Korteks Ginjal:</b> Lapisan luar ginjal yang berfungsi untuk menyaring darah dan menghasilkan filtrat yang akan diproses lebih lanjut.</li>",
+          "  <li><b>Medula Ginjal:</b> Bagian dalam ginjal yang berfungsi untuk mengonsentrasikan urin dan mengatur keseimbangan air tubuh.</li>",
+          "  <li><b>Pelvis Ginjal:</b> Bagian ginjal yang menerima urin dari kaliks ginjal dan mengalirkannya ke ureter untuk dikeluarkan dari tubuh.</li>",
+          "  <li><b>Glomerulus:</b> Jaringan pembuluh darah kecil yang terletak di dalam kapsula Bowman, berfungsi untuk menyaring darah dan menghasilkan filtrat.</li>",
+          "  <li><b>Kapsula Bowman:</b> Tempat penampungan filtrat yang disaring oleh glomerulus, yang selanjutnya akan diproses di tubulus ginjal.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Fungsi Bagian Ginjal dalam Proses Ekskresi:</b></p>",
+          "<ul>",
+          "  <li><b>Glomerulus:</b> Menyaring darah untuk menghasilkan filtrat glomerulus, yang terdiri dari air, garam, urea, dan zat lainnya.</li>",
+          "  <li><b>Tubulus Proksimal:</b> Proses reabsorpsi terjadi di sini, menyerap kembali sebagian besar zat yang dibutuhkan tubuh, seperti glukosa, natrium, dan air.</li>",
+          "  <li><b>Lengkung Henle:</b> Mengatur keseimbangan air dan elektrolit dalam tubuh. Selain itu, meningkatkan konsentrasi urin dengan mengalirkan air ke dalam pembuluh darah.</li>",
+          "  <li><b>Tubulus Distal:</b> Melanjutkan reabsorpsi, terutama untuk ion natrium dan kalium. Juga terjadi augmentasi (sekresi) zat-zat yang tidak dibutuhkan tubuh, seperti ion hidrogen.</li>",
+          "  <li><b>Saluran Pengumpul:</b> Mengumpulkan urin yang telah diproses di tubulus dan mengarahkannya ke pelvis ginjal untuk dikeluarkan melalui ureter.</li>",
+          "</ul>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Bagian ginjal manakah yang berfungsi untuk menyaring darah dan menghasilkan filtrat?</p>"
+        ],
+        "options": [
+          {
+            "text": "Glomerulus",
+            "feedback": "Benar! Glomerulus berfungsi untuk menyaring darah dan menghasilkan filtrat yang akan diproses lebih lanjut."
+          },
+          {
+            "text": "Tubulus Proksimal",
+            "feedback": "Salah! Tubulus Proksimal berfungsi untuk reabsorpsi, bukan untuk filtrasi darah."
+          },
+          {
+            "text": "Medula Ginjal",
+            "feedback": "Salah! Medula Ginjal berfungsi untuk mengonsentrasikan urin, bukan untuk penyaringan darah."
+          },
+          {
+            "text": "Pelvis Ginjal",
+            "feedback": "Salah! Pelvis Ginjal berfungsi untuk menampung urin, bukan untuk menyaring darah."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Proses reabsorpsi zat-zat yang dibutuhkan tubuh, seperti glukosa dan air, terjadi pada bagian ginjal mana?</p>"
+        ],
+        "options": [
+          {
+            "text": "Tubulus Proksimal",
+            "feedback": "Benar! Tubulus Proksimal berfungsi untuk reabsorpsi sebagian besar zat-zat yang disaring, termasuk glukosa dan air."
+          },
+          {
+            "text": "Glomerulus",
+            "feedback": "Salah! Glomerulus berfungsi untuk filtrasi, bukan reabsorpsi."
+          },
+          {
+            "text": "Lengkung Henle",
+            "feedback": "Salah! Lengkung Henle berperan dalam pengaturan keseimbangan air dan elektrolit, bukan reabsorpsi utama."
+          },
+          {
+            "text": "Saluran Pengumpul",
+            "feedback": "Salah! Saluran Pengumpul berfungsi untuk mengumpulkan urin, bukan untuk reabsorpsi zat utama."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Bagian manakah yang berfungsi untuk mengonsentrasikan urin dan mengatur keseimbangan air tubuh?</p>"
+        ],
+        "options": [
+          {
+            "text": "Lengkung Henle",
+            "feedback": "Benar! Lengkung Henle berperan dalam mengonsentrasikan urin dan mengatur keseimbangan air tubuh."
+          },
+          {
+            "text": "Glomerulus",
+            "feedback": "Salah! Glomerulus berfungsi untuk menyaring darah, bukan untuk mengonsentrasikan urin."
+          },
+          {
+            "text": "Tubulus Distal",
+            "feedback": "Salah! Tubulus Distal berfungsi untuk melanjutkan reabsorpsi dan sekresi, tetapi tidak berperan langsung dalam pengonsentrasian urin."
+          },
+          {
+            "text": "Pelvis Ginjal",
+            "feedback": "Salah! Pelvis Ginjal berfungsi untuk menampung urin, bukan untuk mengonsentrasikan urin."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Menganalisis Data Hasil Uji Urine Pasien",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Uji Urine</b></p>",
+          "<p>Uji urine adalah pemeriksaan yang dilakukan untuk menganalisis kandungan dalam urine yang dapat memberikan informasi tentang kesehatan tubuh. Pemeriksaan ini dapat menunjukkan adanya gangguan pada organ-organ tertentu, seperti ginjal, hati, atau sistem metabolisme tubuh lainnya.</p>",
+          "<p>Beberapa parameter yang sering diperiksa dalam uji urine meliputi:</p>",
+          "<ul>",
+          "  <li><b>Glukosa:</b> Jika ditemukan dalam jumlah tinggi, bisa menunjukkan diabetes mellitus.</li>",
+          "  <li><b>Albumin:</b> Kehadiran albumin dalam urine (proteinuria) bisa menjadi indikasi gangguan ginjal.</li>",
+          "  <li><b>Leukosit dan Nitrit:</b> Kehadiran leukosit atau nitrit menunjukkan kemungkinan infeksi saluran kemih.</li>",
+          "  <li><b>Hematuria:</b> Adanya darah dalam urine dapat menunjukkan infeksi atau kelainan pada saluran kemih atau ginjal.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Contoh Hasil Uji Urine Pasien:</b></p>",
+          "<table>",
+          "  <tr><th>Parameter</th><th>Hasil</th><th>Normal</th></tr>",
+          "  <tr><td>Glukosa</td><td>Positif (+)</td><td>Negatif</td></tr>",
+          "  <tr><td>Albumin</td><td>Negatif</td><td>Negatif</td></tr>",
+          "  <tr><td>Leukosit</td><td>Positif (+)</td><td>Negatif</td></tr>",
+          "  <tr><td>Nitrit</td><td>Positif (+)</td><td>Negatif</td></tr>",
+          "  <tr><td>Hematuria</td><td>Negatif</td><td>Negatif</td></tr>",
+          "</table>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Berdasarkan hasil uji urine pasien di atas, apakah yang dapat diindikasikan oleh hasil positif pada parameter Glukosa, Leukosit, dan Nitrit?</p>"
+        ],
+        "options": [
+          {
+            "text": "Diabetes mellitus dan infeksi saluran kemih",
+            "feedback": "Benar! Positif pada glukosa menunjukkan kemungkinan diabetes mellitus, dan positif pada leukosit serta nitrit menunjukkan infeksi saluran kemih."
+          },
+          {
+            "text": "Gagal ginjal dan infeksi saluran kemih",
+            "feedback": "Salah! Tidak ada indikasi gagal ginjal karena albumin dan hematuria negatif."
+          },
+          {
+            "text": "Hepatitis dan penyakit ginjal kronis",
+            "feedback": "Salah! Hepatitis tidak terindikasi oleh uji urine ini, dan albumin tidak menunjukkan proteinuria yang umumnya terjadi pada penyakit ginjal kronis."
+          },
+          {
+            "text": "Anemia dan diabetes mellitus",
+            "feedback": "Salah! Anemia tidak terindikasi pada uji urine ini, dan hematuria negatif mengesampingkan kemungkinan anemia hemolitik."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Apa yang dapat disimpulkan dari hasil negatif pada parameter Albumin dan Hematuria dalam uji urine pasien ini?</p>"
+        ],
+        "options": [
+          {
+            "text": "Tidak ada indikasi kerusakan ginjal yang parah",
+            "feedback": "Benar! Hasil negatif pada albumin dan hematuria menunjukkan tidak adanya proteinuria atau darah dalam urine, yang biasanya terkait dengan kerusakan ginjal."
+          },
+          {
+            "text": "Pasien memiliki gangguan fungsi hati",
+            "feedback": "Salah! Tidak ada parameter yang mengindikasikan gangguan hati pada uji urine ini."
+          },
+          {
+            "text": "Pasien memiliki infeksi saluran kemih ringan",
+            "feedback": "Salah! Meskipun leukosit dan nitrit positif, hasil negatif pada hematuria dan albumin tidak menunjukkan infeksi saluran kemih yang berat."
+          },
+          {
+            "text": "Pasien sedang mengalami gagal ginjal",
+            "feedback": "Salah! Tidak ada indikasi gagal ginjal, karena albumin dan hematuria negatif."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Menganalisis Jenis Penyakit yang Menyerang Sistem Peredaran Darah Manusia",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Sistem Peredaran Darah</b></p>",
+          "<p>Sistem peredaran darah manusia terdiri dari jantung, pembuluh darah, dan darah yang berfungsi untuk mengangkut oksigen, nutrisi, serta mengeluarkan produk sampingan metabolisme tubuh. Sistem ini berperan penting dalam menjaga keseimbangan tubuh dan kesehatan organ-organ lainnya.</p>",
+          "<p>Sistem peredaran darah dapat mengalami gangguan akibat berbagai penyakit. Beberapa penyakit yang menyerang sistem peredaran darah antara lain:</p>",
+          "<ul>",
+          "  <li><b>Hipertensi:</b> Tekanan darah tinggi yang dapat merusak pembuluh darah dan menyebabkan gangguan pada jantung, ginjal, serta organ vital lainnya.</li>",
+          "  <li><b>Stroke:</b> Gangguan pada aliran darah ke otak yang dapat menyebabkan kerusakan otak, kelumpuhan, atau bahkan kematian.</li>",
+          "  <li><b>Arteriosklerosis:</b> Penyempitan pembuluh darah akibat penumpukan lemak dan plak yang mengganggu aliran darah, meningkatkan risiko serangan jantung dan stroke.</li>",
+          "  <li><b>Anemia:</b> Kondisi kekurangan sel darah merah yang sehat, mengurangi kemampuan darah untuk membawa oksigen ke seluruh tubuh.</li>",
+          "  <li><b>Serangan Jantung (Infark Miokardial):</b> Terjadi ketika aliran darah ke jantung terganggu atau terhenti, yang menyebabkan kerusakan otot jantung.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Contoh Data Pasien dengan Penyakit Sistem Peredaran Darah:</b></p>",
+          "<table>",
+          "  <tr><th>Gejala</th><th>Parameter Medis</th><th>Diagnosis</th></tr>",
+          "  <tr><td>Nyeri dada, sesak napas, kelelahan</td><td>Tekanan darah 160/100 mmHg, kadar kolesterol tinggi</td><td>Hipertensi dan arteriosklerosis</td></tr>",
+          "  <tr><td>Kesulitan berbicara, kelumpuhan mendadak</td><td>Hasil CT scan otak menunjukkan pendarahan</td><td>Stroke Hemoragik</td></tr>",
+          "  <tr><td>Pusing, kulit pucat, sesak napas</td><td>Hematokrit rendah, kadar hemoglobin 8 g/dL</td><td>Anemia</td></tr>",
+          "  <tr><td>Nyeri dada hebat, mual, pusing</td><td>EKG menunjukkan infark miokardial</td><td>Serangan Jantung</td></tr>",
+          "</table>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Berdasarkan gejala dan parameter medis pasien yang menunjukkan tekanan darah tinggi dan kadar kolesterol tinggi, penyakit apa yang mungkin diderita pasien?</p>"
+        ],
+        "options": [
+          {
+            "text": "Hipertensi dan arteriosklerosis",
+            "feedback": "Benar! Tekanan darah tinggi dan kadar kolesterol tinggi menunjukkan kemungkinan hipertensi dan arteriosklerosis."
+          },
+          {
+            "text": "Anemia",
+            "feedback": "Salah! Gejala dan parameter medis tidak sesuai dengan anemia."
+          },
+          {
+            "text": "Serangan Jantung",
+            "feedback": "Salah! Meskipun hipertensi bisa berkontribusi pada risiko serangan jantung, diagnosis tidak sesuai dengan serangan jantung langsung."
+          },
+          {
+            "text": "Stroke Hemoragik",
+            "feedback": "Salah! Gejala dan parameter medis lebih mengarah pada hipertensi dan arteriosklerosis."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Pasien dengan gejala nyeri dada hebat, mual, dan pusing serta hasil EKG menunjukkan infark miokardial, penyakit apa yang diderita pasien?</p>"
+        ],
+        "options": [
+          {
+            "text": "Serangan Jantung",
+            "feedback": "Benar! Nyeri dada, mual, pusing, dan EKG menunjukkan infark miokardial, yang menandakan serangan jantung."
+          },
+          {
+            "text": "Stroke Hemoragik",
+            "feedback": "Salah! Gejala ini lebih mengarah pada serangan jantung, bukan stroke."
+          },
+          {
+            "text": "Anemia",
+            "feedback": "Salah! Anemia tidak menyebabkan nyeri dada dan infark miokardial."
+          },
+          {
+            "text": "Hipertensi",
+            "feedback": "Salah! Hipertensi saja tidak cukup untuk mendiagnosis serangan jantung."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Mengidentifikasi Gangguan Sistem Pernapasan pada Manusia",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Sistem Pernapasan Manusia</b></p>",
+          "<p>Sistem pernapasan pada manusia terdiri dari organ-organ yang berfungsi untuk menghirup oksigen dan mengeluarkan karbon dioksida. Organ utama dalam sistem ini meliputi hidung, trakea, bronkus, paru-paru, dan diafragma. Proses pernapasan penting untuk mendukung fungsi tubuh agar tetap hidup dan sehat.</p>",
+          "<p>Sistem pernapasan manusia dapat terganggu akibat berbagai kondisi atau penyakit. Gangguan pada sistem pernapasan bisa memengaruhi kemampuan tubuh untuk bernapas dengan normal dan dapat menyebabkan masalah kesehatan yang serius.</p>",
+          "<p>Beberapa gangguan pada sistem pernapasan meliputi:</p>",
+          "<ul>",
+          "  <li><b>Asma:</b> Penyakit yang menyebabkan saluran napas menyempit, sehingga kesulitan bernapas, batuk, dan mengi.</li>",
+          "  <li><b>Bronkitis:</b> Peradangan pada saluran pernapasan yang mengarah pada batuk, sesak napas, dan produksi dahak yang berlebihan.</li>",
+          "  <li><b>Pneumonia:</b> Infeksi pada paru-paru yang menyebabkan peradangan dan gangguan dalam pertukaran oksigen dan karbon dioksida.</li>",
+          "  <li><b>Emfisema:</b> Penyakit yang menyebabkan kerusakan pada kantung udara di paru-paru, mengurangi kapasitas paru-paru dan kemampuan bernapas.</li>",
+          "  <li><b>Covid-19:</b> Penyakit infeksi virus yang menyerang saluran pernapasan, menyebabkan batuk, demam, dan sesak napas yang parah.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Contoh Ilustrasi Gangguan Sistem Pernapasan:</b></p>",
+          "<p>Berikut adalah ilustrasi pasien dengan beberapa gangguan pernapasan:</p>",
+          "<table>",
+          "  <tr><th>Gejala</th><th>Diagnosis</th></tr>",
+          "  <tr><td>Kesulitan bernapas, batuk mengi</td><td>Asma</td></tr>",
+          "  <tr><td>Batuk dengan dahak berlebihan, sesak napas</td><td>Bronkitis</td></tr>",
+          "  <tr><td>Demam tinggi, batuk berat, sesak napas</td><td>Pneumonia</td></tr>",
+          "  <tr><td>Kesulitan bernapas, kelelahan</td><td>Emfisema</td></tr>",
+          "  <tr><td>Batuk, demam, sesak napas</td><td>Covid-19</td></tr>",
+          "</table>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Pasien mengalami sesak napas, batuk mengi, dan gejala yang memburuk saat malam hari. Penyakit apa yang mungkin diderita pasien?</p>"
+        ],
+        "options": [
+          {
+            "text": "Asma",
+            "feedback": "Benar! Gejala seperti sesak napas dan batuk mengi pada malam hari menunjukkan asma."
+          },
+          {
+            "text": "Pneumonia",
+            "feedback": "Salah! Pneumonia biasanya disertai demam dan batuk berat, bukan hanya mengi."
+          },
+          {
+            "text": "Bronkitis",
+            "feedback": "Salah! Bronkitis lebih sering disertai dengan batuk yang disertai dahak."
+          },
+          {
+            "text": "Emfisema",
+            "feedback": "Salah! Emfisema cenderung menyebabkan kelelahan dan kesulitan bernapas, namun tidak spesifik pada mengi."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Pasien dengan batuk berat, demam, dan sesak napas, serta hasil rontgen menunjukkan peradangan paru-paru, kemungkinan besar menderita penyakit apa?</p>"
+        ],
+        "options": [
+          {
+            "text": "Pneumonia",
+            "feedback": "Benar! Pneumonia menyebabkan peradangan pada paru-paru yang disertai batuk, demam, dan sesak napas."
+          },
+          {
+            "text": "Covid-19",
+            "feedback": "Salah! Meskipun memiliki gejala serupa, diagnosis harus dipastikan melalui tes spesifik."
+          },
+          {
+            "text": "Bronkitis",
+            "feedback": "Salah! Bronkitis umumnya tidak menyebabkan peradangan yang terlihat pada rontgen."
+          },
+          {
+            "text": "Asma",
+            "feedback": "Salah! Asma lebih sering menyebabkan mengi dan kesulitan bernapas, tetapi tidak disertai peradangan paru-paru."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Mengidentifikasi Gejala Terinfeksi Virus Corona (Covid-19)",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Covid-19</b></p>",
+          "<p>Covid-19 adalah penyakit yang disebabkan oleh infeksi virus Corona (SARS-CoV-2). Virus ini dapat menular melalui droplet dari batuk atau bersin seseorang yang terinfeksi, serta kontak dengan permukaan yang terkontaminasi. Penyakit ini dapat memiliki gejala ringan hingga parah, dan pada beberapa kasus, bisa menyebabkan komplikasi serius bahkan kematian.</p>",
+          "<p><b>Gejala Umum Covid-19</b></p>",
+          "<p>Gejala Covid-19 dapat muncul dalam waktu 2 hingga 14 hari setelah terpapar virus. Beberapa gejala umum yang dapat terjadi meliputi:</p>",
+          "<ul>",
+          "  <li>Demam atau menggigil</li>",
+          "  <li>Batuk kering atau batuk berdahak</li>",
+          "  <li>Kelelahan atau lemas</li>",
+          "  <li>Susah bernapas atau sesak napas</li>",
+          "  <li>Nyeri otot atau badan</li>",
+          "  <li>Sakit tenggorokan</li>",
+          "  <li>Kehilangan penciuman atau perasa</li>",
+          "  <li>Congesti atau hidung tersumbat</li>",
+          "  <li>Mual, muntah, atau diare</li>",
+          "</ul>",
+          "<p>Gejala dapat bervariasi pada setiap individu, dan beberapa orang bisa menunjukkan gejala ringan atau bahkan tidak menunjukkan gejala sama sekali (asimtomatik).</p>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Ilustrasi Gejala Covid-19</b></p>",
+          "<p>Berikut adalah ilustrasi beberapa gejala yang umum ditemukan pada pasien yang terinfeksi Covid-19:</p>",
+          "<table>",
+          "  <tr><th>Gejala</th><th>Deskripsi</th></tr>",
+          "  <tr><td>Demam</td><td>Terjadi peningkatan suhu tubuh di atas 37.5°C, sering disertai menggigil.</td></tr>",
+          "  <tr><td>Batuk</td><td>Batuk kering yang berulang, bisa juga disertai dahak.</td></tr>",
+          "  <tr><td>Sesak Napas</td><td>Kesulitan bernapas atau napas yang cepat dan dangkal.</td></tr>",
+          "  <tr><td>Kehilangan Indra Penciuman</td><td>Indra penciuman dan perasa hilang secara mendadak tanpa alasan yang jelas.</td></tr>",
+          "  <tr><td>Kelelahan</td><td>Merasa sangat lelah atau kurang energi, meskipun tidak melakukan aktivitas berat.</td></tr>",
+          "  <tr><td>Sakit Kepala</td><td>Sakit kepala yang dapat disertai dengan rasa pusing dan vertigo.</td></tr>",
+          "  <tr><td>Mual dan Muntah</td><td>Beberapa orang mungkin mengalami gangguan pencernaan, seperti mual atau muntah.</td></tr>",
+          "</table>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Pasien mengalami batuk kering, demam, dan kelelahan yang parah. Gejala apa yang paling mungkin menunjukkan infeksi Covid-19?</p>"
+        ],
+        "options": [
+          {
+            "text": "Demam, batuk, dan kelelahan",
+            "feedback": "Benar! Gejala-gejala ini sering ditemukan pada pasien Covid-19."
+          },
+          {
+            "text": "Mual dan muntah saja",
+            "feedback": "Salah! Mual dan muntah bisa terjadi, tetapi gejala utama Covid-19 lebih sering melibatkan batuk dan demam."
+          },
+          {
+            "text": "Sesak napas dan sakit kepala",
+            "feedback": "Salah! Meskipun sesak napas bisa terjadi pada Covid-19, gejala yang lebih umum adalah batuk dan demam."
+          },
+          {
+            "text": "Batuk berdahak dan sakit tenggorokan",
+            "feedback": "Salah! Batuk berdahak bisa terjadi, tetapi batuk kering lebih umum pada Covid-19."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Pasien kehilangan indra penciuman dan merasakan demam tinggi serta batuk kering. Apa yang sebaiknya dilakukan pasien?</p>"
+        ],
+        "options": [
+          {
+            "text": "Melakukan tes Covid-19 dan mengisolasi diri",
+            "feedback": "Benar! Kehilangan indra penciuman adalah gejala khas Covid-19, tes dan isolasi diri sangat disarankan."
+          },
+          {
+            "text": "Mengonsumsi obat penurun demam dan beraktivitas seperti biasa",
+            "feedback": "Salah! Jika ada gejala seperti itu, isolasi diri dan melakukan tes untuk memastikan apakah terinfeksi Covid-19."
+          },
+          {
+            "text": "Beristirahat tanpa tes apapun",
+            "feedback": "Salah! Meskipun beristirahat penting, tes Covid-19 perlu dilakukan untuk memastikan diagnosis."
+          },
+          {
+            "text": "Menghindari makan dan minum",
+            "feedback": "Salah! Makan dan minum sangat penting, meskipun gejala tersebut terjadi."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Menunjukkan Bagian Jantung dan Fungsinya",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengenalan Jantung</b></p>",
+          "<p>Jantung adalah organ utama dalam sistem peredaran darah yang berfungsi memompa darah ke seluruh tubuh. Jantung terdiri dari empat ruang utama: dua serambi (atria) dan dua bilik (ventrikel). Darah yang dipompa oleh jantung mengalir melalui pembuluh darah ke seluruh tubuh, membawa oksigen dan nutrisi, serta mengangkut sisa metabolisme untuk dikeluarkan oleh organ tubuh lainnya.</p>",
+          "<p><b>Bagian-bagian Jantung</b></p>",
+          "<ul>",
+          "  <li><b>Serambi Kanan (Atrium Kanan):</b> Menerima darah yang kaya karbon dioksida dari tubuh dan mengalirkannya ke bilik kanan.</li>",
+          "  <li><b>Bilik Kanan (Ventrikel Kanan):</b> Memompa darah yang kaya karbon dioksida menuju paru-paru untuk mendapatkan oksigen.</li>",
+          "  <li><b>Serambi Kiri (Atrium Kiri):</b> Menerima darah yang kaya oksigen dari paru-paru dan mengalirkannya ke bilik kiri.</li>",
+          "  <li><b>Bilik Kiri (Ventrikel Kiri):</b> Memompa darah yang kaya oksigen ke seluruh tubuh melalui arteri utama, yaitu aorta.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Fungsi Setiap Bagian Jantung</b></p>",
+          "<ul>",
+          "  <li><b>Serambi Kanan (Atrium Kanan):</b> Menerima darah deoksigenasi dari tubuh melalui vena cava superior dan inferior, kemudian mengalirkannya ke bilik kanan untuk dipompa ke paru-paru.</li>",
+          "  <li><b>Bilik Kanan (Ventrikel Kanan):</b> Memompa darah ke paru-paru melalui arteri pulmonalis untuk pertukaran oksigen dan karbon dioksida.</li>",
+          "  <li><b>Serambi Kiri (Atrium Kiri):</b> Menerima darah oksigenasi dari paru-paru melalui vena pulmonalis dan mengalirkannya ke bilik kiri.</li>",
+          "  <li><b>Bilik Kiri (Ventrikel Kiri):</b> Memompa darah yang kaya oksigen ke seluruh tubuh melalui aorta untuk memenuhi kebutuhan oksigen dan nutrisi organ tubuh.</li>",
+          "</ul>",
+          "<p>Setiap bagian jantung bekerja secara terkoordinasi untuk memastikan peredaran darah berjalan dengan baik, mendukung kelangsungan hidup dan kesehatan tubuh manusia.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Bagian jantung yang memompa darah ke seluruh tubuh adalah...</p>"
+        ],
+        "options": [
+          {
+            "text": "Bilik Kiri (Ventrikel Kiri)",
+            "feedback": "Benar! Bilik kiri memompa darah yang kaya oksigen ke seluruh tubuh."
+          },
+          {
+            "text": "Serambi Kiri (Atrium Kiri)",
+            "feedback": "Salah! Serambi kiri hanya menerima darah yang kaya oksigen dari paru-paru, bukan memompanya ke seluruh tubuh."
+          },
+          {
+            "text": "Serambi Kanan (Atrium Kanan)",
+            "feedback": "Salah! Serambi kanan menerima darah deoksigenasi dari tubuh, bukan memompa darah ke seluruh tubuh."
+          },
+          {
+            "text": "Bilik Kanan (Ventrikel Kanan)",
+            "feedback": "Salah! Bilik kanan memompa darah ke paru-paru, bukan ke seluruh tubuh."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Fungsi utama serambi kanan (Atrium Kanan) adalah...</p>"
+        ],
+        "options": [
+          {
+            "text": "Menerima darah deoksigenasi dari tubuh dan mengalirkannya ke bilik kanan",
+            "feedback": "Benar! Serambi kanan menerima darah yang kaya karbon dioksida dari tubuh dan mengalirkannya ke bilik kanan."
+          },
+          {
+            "text": "Memompa darah ke seluruh tubuh",
+            "feedback": "Salah! Fungsi ini dilakukan oleh bilik kiri, bukan serambi kanan."
+          },
+          {
+            "text": "Menerima darah yang kaya oksigen dari paru-paru",
+            "feedback": "Salah! Fungsi ini dilakukan oleh serambi kiri, bukan serambi kanan."
+          },
+          {
+            "text": "Memompa darah ke paru-paru",
+            "feedback": "Salah! Memompa darah ke paru-paru dilakukan oleh bilik kanan, bukan serambi kanan."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Menyebutkan Fungsi Bagian-Bagian Sel Darah Putih",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengenalan Sel Darah Putih</b></p>",
+          "<p>Sel darah putih (leukosit) adalah komponen utama dalam sistem kekebalan tubuh yang berfungsi melawan infeksi dan penyakit. Sel darah putih ditemukan dalam darah dan memiliki berbagai jenis dengan fungsi yang berbeda. Sel darah putih bekerja untuk melindungi tubuh dari mikroorganisme patogen seperti bakteri, virus, dan jamur, serta membantu dalam proses pemulihan tubuh setelah cedera atau penyakit.</p>",
+          "<p><b>Jenis-Jenis Sel Darah Putih dan Fungsinya</b></p>",
+          "<ul>",
+          "  <li><b>Neutrofil:</b> Neutrofil adalah jenis sel darah putih yang paling banyak ditemukan dalam darah. Fungsi utama mereka adalah fagositosis, yaitu memakan dan menghancurkan bakteri dan mikroba lainnya yang masuk ke tubuh.</li>",
+          "  <li><b>Limfosit:</b> Limfosit berperan penting dalam respon imun adaptif. Terdiri dari T-limfosit dan B-limfosit. T-limfosit membantu mengenali dan menghancurkan sel yang terinfeksi virus atau sel kanker, sementara B-limfosit menghasilkan antibodi untuk melawan infeksi.</li>",
+          "  <li><b>Monosit:</b> Monosit adalah jenis sel darah putih yang memiliki fungsi sebagai fagosit. Mereka berperan dalam memakan dan mencerna patogen serta mengaktifkan limfosit untuk memperkuat sistem kekebalan tubuh.</li>",
+          "  <li><b>Eosinofil:</b> Eosinofil berperan dalam melawan infeksi parasit dan berperan dalam reaksi alergi, seperti asma atau alergi lainnya. Mereka membantu meredakan peradangan yang terjadi akibat infeksi parasit.</li>",
+          "  <li><b>Basofil:</b> Basofil berperan dalam proses peradangan dan reaksi alergi. Mereka melepaskan histamin yang menyebabkan peradangan untuk melawan patogen dan melindungi tubuh dari infeksi.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Fungsi Setiap Jenis Sel Darah Putih</b></p>",
+          "<ul>",
+          "  <li><b>Neutrofil:</b> Melakukan fagositosis untuk memusnahkan bakteri dan mikroba lainnya. Ini adalah respons tubuh terhadap infeksi bakteri akut.</li>",
+          "  <li><b>Limfosit:</b> Menghasilkan antibodi (pada B-limfosit) dan membantu menghancurkan sel terinfeksi virus serta sel kanker (pada T-limfosit).</li>",
+          "  <li><b>Monosit:</b> Berperan dalam memakan dan mencerna patogen, serta mengaktifkan limfosit untuk meningkatkan respon imun tubuh.</li>",
+          "  <li><b>Eosinofil:</b> Melawan infeksi parasit dan berperan dalam reaksi alergi dengan mengatur peradangan yang terjadi pada infeksi parasit.</li>",
+          "  <li><b>Basofil:</b> Melepaskan histamin selama reaksi alergi dan inflamasi, membantu melindungi tubuh dari infeksi dan cedera.</li>",
+          "</ul>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Sel darah putih yang berfungsi untuk memakan dan menghancurkan bakteri dan mikroba adalah...</p>"
+        ],
+        "options": [
+          {
+            "text": "Neutrofil",
+            "feedback": "Benar! Neutrofil berfungsi sebagai fagosit untuk menghancurkan bakteri dan mikroba lainnya."
+          },
+          {
+            "text": "Limfosit",
+            "feedback": "Salah! Limfosit menghasilkan antibodi dan melawan sel yang terinfeksi, bukan berfungsi sebagai fagosit."
+          },
+          {
+            "text": "Monosit",
+            "feedback": "Salah! Monosit juga berfungsi sebagai fagosit, tetapi tidak sebanyak neutrofil dalam mengatasi bakteri."
+          },
+          {
+            "text": "Eosinofil",
+            "feedback": "Salah! Eosinofil lebih berfokus pada melawan parasit dan reaksi alergi, bukan bakteri."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Sel darah putih yang berperan dalam melawan infeksi parasit adalah...</p>"
+        ],
+        "options": [
+          {
+            "text": "Eosinofil",
+            "feedback": "Benar! Eosinofil berfungsi dalam melawan infeksi parasit dan membantu mengatasi reaksi alergi."
+          },
+          {
+            "text": "Basofil",
+            "feedback": "Salah! Basofil lebih berperan dalam proses peradangan dan reaksi alergi, bukan melawan parasit."
+          },
+          {
+            "text": "Monosit",
+            "feedback": "Salah! Monosit berperan dalam memakan dan mencerna patogen, tetapi tidak khusus melawan parasit."
+          },
+          {
+            "text": "Limfosit",
+            "feedback": "Salah! Limfosit berfokus pada melawan infeksi virus dan sel kanker, bukan parasit."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Menganalisis Poster Protokol Donor Darah",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Protokol Donor Darah</b></p>",
+          "<p>Donor darah adalah tindakan memberikan darah atau komponen darah dari seseorang (donor) kepada orang lain yang membutuhkan. Protokol donor darah bertujuan untuk memastikan keamanan donor dan penerima darah. Protokol ini mencakup langkah-langkah yang harus dipatuhi oleh donor, petugas medis, dan pihak yang terlibat dalam proses pendonorannya.</p>",
+          "<p><b>Langkah-langkah dalam Protokol Donor Darah:</b></p>",
+          "<ul>",
+          "  <li>Persyaratan umum: Donor darah harus berusia antara 17 hingga 60 tahun, memiliki berat badan minimal 45 kg, dan dalam keadaan sehat.</li>",
+          "  <li>Pemeriksaan awal: Donor akan diperiksa tekanan darah, kadar hemoglobin, dan riwayat medis untuk memastikan bahwa mereka dapat mendonorkan darah dengan aman.</li>",
+          "  <li>Proses pengambilan darah: Darah diambil sekitar 350-450 ml, yang akan digunakan untuk transfusi atau diproses menjadi komponen darah seperti plasma, trombosit, dan sel darah merah.</li>",
+          "  <li>Pasca-donor: Donor diharuskan untuk beristirahat sejenak dan mengonsumsi cairan atau makanan ringan untuk mengembalikan energi setelah mendonorkan darah.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Darah yang Boleh Mendonor dan Menerima Donor</b></p>",
+          "<p>Saat mendonorkan atau menerima darah, sangat penting untuk memeriksa kecocokan golongan darah antara donor dan penerima. Berikut adalah jenis golongan darah dan kecocokannya:</p>",
+          "<ul>",
+          "  <li><b>Golongan Darah A:</b> Dapat mendonorkan darah kepada golongan A dan AB, dan dapat menerima darah dari golongan A dan O.</li>",
+          "  <li><b>Golongan Darah B:</b> Dapat mendonorkan darah kepada golongan B dan AB, dan dapat menerima darah dari golongan B dan O.</li>",
+          "  <li><b>Golongan Darah AB:</b> Dapat mendonorkan darah hanya kepada golongan AB, tetapi dapat menerima darah dari semua golongan darah (A, B, AB, O) karena AB adalah golongan darah penerima universal.</li>",
+          "  <li><b>Golongan Darah O:</b> Dapat mendonorkan darah kepada semua golongan darah (A, B, AB, O) karena O adalah golongan darah pendonor universal, tetapi hanya dapat menerima darah dari golongan O.</li>",
+          "</ul>",
+          "<p><b>Rhesus (Rh):</b> Selain golongan darah, faktor rhesus juga penting. Golongan darah dapat bersifat positif (Rh+) atau negatif (Rh-). Orang dengan golongan darah Rh- hanya dapat menerima darah dari donor yang juga Rh-, sementara orang dengan golongan darah Rh+ dapat menerima darah dari donor dengan Rh+ atau Rh-.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Golongan darah mana yang dapat menerima darah dari semua golongan darah?</p>"
+        ],
+        "options": [
+          {
+            "text": "Golongan darah AB",
+            "feedback": "Benar! Golongan darah AB dapat menerima darah dari semua golongan darah (A, B, AB, O)."
+          },
+          {
+            "text": "Golongan darah A",
+            "feedback": "Salah! Golongan darah A hanya bisa menerima darah dari golongan A dan O."
+          },
+          {
+            "text": "Golongan darah O",
+            "feedback": "Salah! Golongan darah O hanya bisa menerima darah dari golongan O."
+          },
+          {
+            "text": "Golongan darah B",
+            "feedback": "Salah! Golongan darah B hanya bisa menerima darah dari golongan B dan O."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Donor darah yang memiliki golongan darah O dapat mendonorkan darah ke golongan darah mana saja?</p>"
+        ],
+        "options": [
+          {
+            "text": "Golongan darah A, B, AB, dan O",
+            "feedback": "Benar! Golongan darah O adalah pendonor universal dan dapat mendonorkan darah ke semua golongan darah."
+          },
+          {
+            "text": "Golongan darah AB saja",
+            "feedback": "Salah! Golongan darah O dapat mendonorkan darah ke semua golongan darah, bukan hanya AB."
+          },
+          {
+            "text": "Golongan darah O saja",
+            "feedback": "Salah! Golongan darah O dapat mendonorkan darah ke semua golongan darah, bukan hanya O."
+          },
+          {
+            "text": "Golongan darah A dan B saja",
+            "feedback": "Salah! Golongan darah O dapat mendonorkan darah ke semua golongan darah, termasuk AB."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Menyimpulkan Data Hasil Penelitian Detak Jantung per Menit",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Detak Jantung</b></p>",
+          "<p>Detak jantung adalah jumlah detakan jantung dalam satu menit. Detak jantung yang normal menunjukkan bahwa jantung berfungsi dengan baik untuk memompa darah ke seluruh tubuh. Detak jantung dapat dipengaruhi oleh berbagai faktor seperti usia, tingkat kebugaran, dan kondisi fisik seseorang.</p>",
+          "<p><b>Faktor-faktor yang Mempengaruhi Detak Jantung:</b></p>",
+          "<ul>",
+          "  <li>Usia: Detak jantung cenderung lebih cepat pada anak-anak dan lebih lambat pada orang dewasa.</li>",
+          "  <li>Kondisi fisik: Olahragawan biasanya memiliki detak jantung lebih rendah pada saat istirahat karena kebugaran jantung yang lebih baik.</li>",
+          "  <li>Emosi: Stres atau kecemasan dapat menyebabkan detak jantung meningkat.</li>",
+          "  <li>Kondisi kesehatan: Penyakit jantung atau gangguan metabolisme dapat mempengaruhi detak jantung.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Contoh Data Detak Jantung per Menit</b></p>",
+          "<p>Data hasil penelitian menunjukkan detak jantung per menit pada beberapa kelompok orang setelah melakukan aktivitas fisik atau mengalami kondisi emosional tertentu:</p>",
+          "<table border='1'>",
+          "<tr><th>Aktivitas</th><th>Detak Jantung per Menit</th></tr>",
+          "<tr><td>Olahraga (seperti lari atau bersepeda)</td><td>110-150 bpm</td></tr>",
+          "<tr><td>Stres atau kecemasan</td><td>90-120 bpm</td></tr>",
+          "<tr><td>Beristirahat setelah olahraga</td><td>70-90 bpm</td></tr>",
+          "<tr><td>Relaksasi atau meditasi</td><td>60-70 bpm</td></tr>",
+          "</table>",
+          "<p><b>Kesimpulan:</b> Detak jantung akan meningkat saat seseorang melakukan aktivitas fisik atau dalam keadaan stres. Olahraga menyebabkan detak jantung tinggi, namun setelah beristirahat, detak jantung kembali normal. Stres atau kecemasan juga dapat meningkatkan detak jantung.</p>"
+        ]
+      },
+      {
+        "page_number": 3,
+        "text": [
+          "<p><b>Contoh Data Detak Jantung per Menit</b></p>",
+          "<p>Data hasil penelitian menunjukkan detak jantung per menit pada beberapa kelompok orang:</p>",
+          "<table border='1'>",
+          "<tr><th>Kelompok Usia</th><th>Detak Jantung per Menit</th></tr>",
+          "<tr><td>Anak-anak (5-10 tahun)</td><td>90-110 bpm</td></tr>",
+          "<tr><td>Remaja (11-18 tahun)</td><td>80-100 bpm</td></tr>",
+          "<tr><td>Dewasa (19-40 tahun)</td><td>60-80 bpm</td></tr>",
+          "<tr><td>Manula (40+ tahun)</td><td>60-75 bpm</td></tr>",
+          "</table>",
+          "<p><b>Kesimpulan:</b> Berdasarkan data tersebut, semakin tua usia seseorang, semakin rendah rata-rata detak jantungnya per menit pada saat istirahat. Hal ini berkaitan dengan tingkat kebugaran dan perubahan fisiologis tubuh seiring bertambahnya usia.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Manakah dari aktivitas berikut yang dapat meningkatkan detak jantung paling cepat?</p>"
+        ],
+        "options": [
+          {
+            "text": "Olahraga (seperti lari atau bersepeda)",
+            "feedback": "Benar! Olahraga meningkatkan detak jantung dengan cepat karena tubuh membutuhkan lebih banyak oksigen dan energi."
+          },
+          {
+            "text": "Relaksasi atau meditasi",
+            "feedback": "Salah! Relaksasi atau meditasi dapat menurunkan detak jantung karena tubuh berada dalam keadaan tenang."
+          },
+          {
+            "text": "Beristirahat setelah olahraga",
+            "feedback": "Salah! Setelah berolahraga, detak jantung akan berangsur-angsur turun kembali ke tingkat normal."
+          },
+          {
+            "text": "Stres atau kecemasan",
+            "feedback": "Salah! Meskipun stres dapat meningkatkan detak jantung, tetapi tidak secepat olahraga."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Bagaimana kondisi emosi dapat mempengaruhi detak jantung?</p>"
+        ],
+        "options": [
+          {
+            "text": "Detak jantung akan menurun saat seseorang merasa stres atau cemas.",
+            "feedback": "Salah! Stres atau kecemasan justru akan meningkatkan detak jantung karena tubuh merespons dengan peningkatan kewaspadaan."
+          },
+          {
+            "text": "Detak jantung akan tetap stabil meskipun ada perubahan emosi.",
+            "feedback": "Salah! Emosi dapat mempengaruhi detak jantung, seperti saat seseorang merasa cemas atau marah."
+          },
+          {
+            "text": "Detak jantung akan meningkat saat seseorang merasa cemas atau stres.",
+            "feedback": "Benar! Stres atau kecemasan dapat meningkatkan detak jantung karena tubuh merespons secara fisik terhadap tekanan emosi."
+          },
+          {
+            "text": "Detak jantung akan meningkat saat seseorang merasa bahagia.",
+            "feedback": "Salah! Meskipun bahagia bisa menyebabkan detak jantung meningkat sedikit, tetapi peningkatan ini tidak sebesar saat stres."
+          }
+        ],
+        "answer_index": 2
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Menganalisis Hubungan Aktivitas dan Frekuensi Pernapasan",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Frekuensi Pernapasan</b></p>",
+          "<p>Frekuensi pernapasan adalah jumlah napas yang diambil dalam satu menit. Frekuensi ini dapat berubah tergantung pada berbagai faktor, salah satunya adalah aktivitas yang dilakukan. Pada saat tubuh membutuhkan lebih banyak oksigen (seperti saat berolahraga), frekuensi pernapasan akan meningkat, dan sebaliknya, saat tubuh dalam keadaan istirahat, frekuensi pernapasan akan lebih rendah.</p>",
+          "<p><b>Faktor yang Mempengaruhi Frekuensi Pernapasan:</b></p>",
+          "<ul>",
+          "  <li><b>Aktivitas fisik:</b> Saat melakukan aktivitas berat, tubuh membutuhkan lebih banyak oksigen, sehingga frekuensi pernapasan meningkat.</li>",
+          "  <li><b>Emosi:</b> Stres, kecemasan, atau rasa takut dapat meningkatkan frekuensi pernapasan.</li>",
+          "  <li><b>Usia:</b> Anak-anak cenderung memiliki frekuensi pernapasan yang lebih tinggi dibandingkan orang dewasa.</li>",
+          "  <li><b>Kondisi kesehatan:</b> Penyakit pernapasan atau gangguan metabolisme dapat mempengaruhi frekuensi pernapasan.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Contoh Data Aktivitas dan Frekuensi Pernapasan</b></p>",
+          "<p>Berikut adalah data frekuensi pernapasan pada beberapa kondisi aktivitas:</p>",
+          "<table border='1'>",
+          "<tr><th>Aktivitas</th><th>Frekuensi Pernapasan (per menit)</th></tr>",
+          "<tr><td>Istirahat</td><td>12-16</td></tr>",
+          "<tr><td>Berjalan santai</td><td>16-20</td></tr>",
+          "<tr><td>Olahraga ringan (seperti jogging)</td><td>20-30</td></tr>",
+          "<tr><td>Olahraga berat (seperti berlari cepat)</td><td>30-40</td></tr>",
+          "<tr><td>Setelah berolahraga intens</td><td>20-30</td></tr>",
+          "</table>",
+          "<p><b>Kesimpulan:</b> Aktivitas fisik yang lebih berat akan meningkatkan frekuensi pernapasan. Setelah berolahraga, meskipun tubuh dalam keadaan istirahat, frekuensi pernapasan masih bisa sedikit lebih tinggi dari normal sampai tubuh kembali ke keadaan normal.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Manakah dari aktivitas berikut yang akan menyebabkan frekuensi pernapasan meningkat paling cepat?</p>"
+        ],
+        "options": [
+          {
+            "text": "Istirahat",
+            "feedback": "Salah! Saat beristirahat, frekuensi pernapasan cenderung rendah, yaitu sekitar 12-16 per menit."
+          },
+          {
+            "text": "Berjalan santai",
+            "feedback": "Salah! Berjalan santai juga dapat meningkatkan frekuensi pernapasan, namun tidak sebanyak olahraga berat."
+          },
+          {
+            "text": "Olahraga berat (seperti berlari cepat)",
+            "feedback": "Benar! Olahraga berat seperti berlari cepat membutuhkan banyak oksigen, yang menyebabkan frekuensi pernapasan meningkat hingga 30-40 per menit."
+          },
+          {
+            "text": "Setelah berolahraga intens",
+            "feedback": "Salah! Meskipun frekuensi pernapasan tetap sedikit meningkat, namun setelah berolahraga intens, frekuensi pernapasan akan mulai kembali normal."
+          }
+        ],
+        "answer_index": 2
+      },
+      {
+        "question": [
+          "<p>Bagaimana hubungan antara aktivitas fisik dan frekuensi pernapasan?</p>"
+        ],
+        "options": [
+          {
+            "text": "Semakin berat aktivitas fisik, semakin rendah frekuensi pernapasan.",
+            "feedback": "Salah! Justru semakin berat aktivitas fisik, semakin tinggi frekuensi pernapasan karena tubuh membutuhkan lebih banyak oksigen."
+          },
+          {
+            "text": "Semakin berat aktivitas fisik, semakin tinggi frekuensi pernapasan.",
+            "feedback": "Benar! Saat melakukan aktivitas fisik yang lebih berat, tubuh memerlukan lebih banyak oksigen, sehingga frekuensi pernapasan meningkat."
+          },
+          {
+            "text": "Aktivitas fisik tidak mempengaruhi frekuensi pernapasan.",
+            "feedback": "Salah! Aktivitas fisik jelas mempengaruhi frekuensi pernapasan, semakin berat aktivitas, semakin tinggi frekuensinya."
+          },
+          {
+            "text": "Frekuensi pernapasan tetap sama meskipun ada perubahan aktivitas.",
+            "feedback": "Salah! Frekuensi pernapasan berubah seiring dengan tingkat aktivitas fisik yang dilakukan."
+          }
+        ],
+        "answer_index": 1
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Mekanisme Pembekuan Darah",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Pembekuan Darah</b></p>",
+          "<p>Pembekuan darah adalah proses tubuh untuk menghentikan perdarahan ketika terjadi luka. Proses ini sangat penting agar tubuh tidak kehilangan banyak darah. Salah satu komponen utama yang berperan dalam pembekuan darah adalah trombosit atau sel darah platelet.</p>",
+          "<p><b>Langkah-langkah Pembekuan Darah:</b></p>",
+          "<p>1. <b>Trombosit pecah</b> – Ketika ada luka pada pembuluh darah, trombosit (sel darah platelet) akan pecah dan mengeluarkan bahan kimia yang disebut trombokinase.</p>",
+          "<p>2. <b>Trombokinase</b> – Trombokinas ini kemudian akan mengaktifkan protrombin, sebuah protein yang ada dalam darah, untuk berubah menjadi trombin. Proses ini membutuhkan bantuan <b>kalsium (Ca2+)</b> dan <b>vitamin K</b>.</p>",
+          "<p>3. <b>Trombin</b> – Setelah terbentuk, trombin akan mengubah fibrinogen (protein lain dalam darah) menjadi fibrin.</p>",
+          "<p>4. <b>Fibrin</b> – Fibrin akan membentuk benang-benang halus yang akan menyelimuti luka dan mengikat sel-sel darah lainnya, membentuk gumpalan darah yang menghentikan perdarahan.</p>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Bagan Proses Pembekuan Darah:</b></p>",
+          "<img src='https://cdn-web.ruangguru.com/landing-pages/assets/hs/skema%20proses%20pembekuan%20darah.jpg' alt='Bagan Pembekuan Darah' width='70%'/>",
+          "<p><b>Kesimpulan:</b> Proses pembekuan darah melibatkan trombosit yang pecah, mengeluarkan trombokinase, yang mengubah protrombin menjadi trombin. Trombin kemudian mengubah fibrinogen menjadi fibrin, yang membentuk benang fibrin untuk menghentikan perdarahan.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Bagaimana trombin berperan dalam proses pembekuan darah?</p>"
+        ],
+        "options": [
+          {
+            "text": "Trombin mengubah trombosit menjadi fibrinogen.",
+            "feedback": "Salah! Trombin mengubah fibrinogen menjadi fibrin, bukan trombosit."
+          },
+          {
+            "text": "Trombin mengubah fibrinogen menjadi fibrin.",
+            "feedback": "Benar! Trombin mengubah fibrinogen menjadi fibrin yang membentuk benang-benang untuk menghentikan perdarahan."
+          },
+          {
+            "text": "Trombin mengaktifkan trombokinase.",
+            "feedback": "Salah! Trombin tidak mengaktifkan trombokinase, tetapi trombokinase mengubah protrombin menjadi trombin."
+          },
+          {
+            "text": "Trombin membantu trombosit membeku.",
+            "feedback": "Salah! Trombin mengubah fibrinogen menjadi fibrin, yang membentuk benang-benang pembekuan."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Bagaimana peran vitamin K dalam pembekuan darah?</p>"
+        ],
+        "options": [
+          {
+            "text": "Vitamin K membantu trombosit membeku.",
+            "feedback": "Salah! Vitamin K membantu dalam proses pembentukan trombin, yang penting untuk pembekuan darah."
+          },
+          {
+            "text": "Vitamin K membantu mengaktifkan protrombin menjadi trombin.",
+            "feedback": "Benar! Vitamin K membantu mengaktifkan protrombin menjadi trombin dalam proses pembekuan darah."
+          },
+          {
+            "text": "Vitamin K mengubah fibrinogen menjadi fibrin.",
+            "feedback": "Salah! Vitamin K tidak terlibat langsung dalam perubahan fibrinogen menjadi fibrin."
+          },
+          {
+            "text": "Vitamin K membantu trombokinase untuk bekerja.",
+            "feedback": "Salah! Vitamin K tidak berperan langsung dalam bekerja trombokinase, tetapi membantu pembentukan trombin."
+          }
+        ],
+        "answer_index": 1
+      }
+    ]
+  }
+]
