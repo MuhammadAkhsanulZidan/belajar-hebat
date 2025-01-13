@@ -2260,5 +2260,186 @@
         "answer_index": 1
       }
     ]
+  },
+  {
+    "id": 25,
+    "title": "Gaya, Usaha, dan Daya",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Gaya</b></p>",
+          "<p>Gaya adalah suatu interaksi yang menyebabkan benda bergerak atau berubah bentuk. Gaya memiliki satuan Newton (N) dan dapat berupa gaya dorong atau tarik. Gaya dapat berupa gaya kontak, seperti gaya gesek, atau gaya tanpa kontak, seperti gaya gravitasi.</p>",
+          "<p><b>Jenis-jenis Gaya:</b></p>",
+          "<p>1. <b>Gaya Gravitasi</b> – Gaya tarik bumi yang menyebabkan benda jatuh ke tanah.</p>",
+          "<p>2. <b>Gaya Gesek</b> – Gaya yang terjadi saat dua permukaan benda saling bersentuhan dan bergerak relatif satu sama lain.</p>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Pengertian Usaha</b></p>",
+          "<p>Usaha adalah hasil perkalian antara gaya yang bekerja pada suatu benda dengan perpindahan benda tersebut dalam arah gaya bekerja. Usaha memiliki satuan joule (J) dan dihitung dengan rumus <i>Usaha = Gaya × Perpindahan × cos θ</i>, di mana θ adalah sudut antara arah gaya dan perpindahan.</p>",
+          "<p><b>Contoh Usaha:</b></p>",
+          "<p>Jika sebuah benda diberikan gaya 10 N untuk bergerak sejauh 5 meter searah dengan gaya, maka usaha yang dilakukan adalah <i>Usaha = 10 N × 5 m = 50 J</i>.</p>"
+        ]
+      },
+      {
+        "page_number": 3,
+        "text": [
+          "<p><b>Pengertian Daya</b></p>",
+          "<p>Daya adalah banyaknya usaha yang dilakukan dalam satu satuan waktu. Daya dihitung dengan rumus <i>Daya = Usaha / Waktu</i> dan memiliki satuan watt (W), di mana 1 watt sama dengan 1 joule per detik.</p>",
+          "<p><b>Contoh Daya:</b></p>",
+          "<p>Jika sebuah mesin melakukan usaha 100 J dalam waktu 10 detik, maka daya yang dihasilkan adalah <i>Daya = 100 J / 10 s = 10 W</i>.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Jika sebuah gaya sebesar 20 N bekerja pada benda dan benda tersebut bergerak sejauh 10 meter searah dengan gaya, hitunglah usaha yang dilakukan.</p>"
+        ],
+        "options": [
+          {
+            "text": "Usaha = 200 J",
+            "feedback": "Benar! Usaha = Gaya × Perpindahan = 20 N × 10 m = 200 J."
+          },
+          {
+            "text": "Usaha = 10 J",
+            "feedback": "Salah! Usaha dihitung dengan mengalikan gaya dengan perpindahan benda."
+          },
+          {
+            "text": "Usaha = 100 N",
+            "feedback": "Salah! Usaha dihitung dalam satuan joule, bukan Newton."
+          },
+          {
+            "text": "Usaha = 30 J",
+            "feedback": "Salah! Periksa perhitungan gaya dan perpindahan yang benar."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Sebuah mobil diberi gaya 1000 N dan bergerak sejauh 50 meter searah dengan gaya. Berapa usaha yang dilakukan oleh mobil?</p>"
+        ],
+        "options": [
+          {
+            "text": "Usaha = 5000 J",
+            "feedback": "Benar! Usaha = Gaya × Perpindahan = 1000 N × 50 m = 5000 J."
+          },
+          {
+            "text": "Usaha = 1500 J",
+            "feedback": "Salah! Cek kembali perhitungan gaya dan jarak yang benar."
+          },
+          {
+            "text": "Usaha = 10000 J",
+            "feedback": "Salah! Periksa perhitungan usaha dengan benar."
+          },
+          {
+            "text": "Usaha = 2000 J",
+            "feedback": "Salah! Gaya dan jarak tidak dihitung dengan benar."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Jika sebuah mesin menghasilkan usaha sebesar 200 J dalam 4 detik, hitunglah daya yang dihasilkan oleh mesin tersebut.</p>"
+        ],
+        "options": [
+          {
+            "text": "Daya = 50 W",
+            "feedback": "Benar! Daya = Usaha / Waktu = 200 J / 4 s = 50 W."
+          },
+          {
+            "text": "Daya = 100 W",
+            "feedback": "Salah! Cek kembali pembagian usaha dengan waktu."
+          },
+          {
+            "text": "Daya = 25 W",
+            "feedback": "Salah! Periksa pembagian usaha dengan waktu yang benar."
+          },
+          {
+            "text": "Daya = 200 W",
+            "feedback": "Salah! Daya dihitung dengan membagi usaha dengan waktu, bukan mengalikannya."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Jika gaya sebesar 15 N bekerja pada benda dan benda tersebut bergerak sejauh 4 meter dengan sudut 60° terhadap arah gaya, hitunglah usaha yang dilakukan.</p>"
+        ],
+        "options": [
+          {
+            "text": "Usaha = 30 J",
+            "feedback": "Benar! Usaha = Gaya × Perpindahan × cos(θ) = 15 N × 4 m × cos(60°) = 30 J."
+          },
+          {
+            "text": "Usaha = 60 J",
+            "feedback": "Salah! Periksa nilai cos(60°) yang digunakan dalam perhitungan."
+          },
+          {
+            "text": "Usaha = 15 J",
+            "feedback": "Salah! Cek kembali rumus usaha dengan sudut yang benar."
+          },
+          {
+            "text": "Usaha = 45 J",
+            "feedback": "Salah! Periksa kembali perhitungan antara gaya dan perpindahan."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Sebuah benda diberi gaya sebesar 50 N dan bergerak sejauh 3 meter dengan sudut 30° terhadap arah gaya. Hitunglah usaha yang dilakukan oleh benda.</p>"
+        ],
+        "options": [
+          {
+            "text": "Usaha = 129 J",
+            "feedback": "Benar! Usaha = Gaya × Perpindahan × cos(θ) = 50 N × 3 m × cos(30°) = 129 J."
+          },
+          {
+            "text": "Usaha = 100 J",
+            "feedback": "Salah! Periksa perhitungan cos(30°) yang benar."
+          },
+          {
+            "text": "Usaha = 75 J",
+            "feedback": "Salah! Cek pembagian yang benar antara gaya dan perpindahan."
+          },
+          {
+            "text": "Usaha = 150 J",
+            "feedback": "Salah! Cek kembali sudut dan gaya yang digunakan."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Jika sebuah mesin menghasilkan daya 80 W, berapa banyak usaha yang dilakukan dalam 10 detik?</p>"
+        ],
+        "options": [
+          {
+            "text": "Usaha = 800 J",
+            "feedback": "Benar! Usaha = Daya × Waktu = 80 W × 10 s = 800 J."
+          },
+          {
+            "text": "Usaha = 600 J",
+            "feedback": "Salah! Periksa perhitungan daya yang benar."
+          },
+          {
+            "text": "Usaha = 1000 J",
+            "feedback": "Salah! Usaha dihitung dengan mengalikan daya dengan waktu."
+          },
+          {
+            "text": "Usaha = 900 J",
+            "feedback": "Salah! Cek kembali perhitungan antara daya dan waktu."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
   }
+  
 ]
