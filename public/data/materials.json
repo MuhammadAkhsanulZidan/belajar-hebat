@@ -2272,14 +2272,15 @@
           "<p>Gaya adalah suatu interaksi yang menyebabkan benda bergerak atau berubah bentuk. Gaya memiliki satuan Newton (N) dan dapat berupa gaya dorong atau tarik. Gaya dapat berupa gaya kontak, seperti gaya gesek, atau gaya tanpa kontak, seperti gaya gravitasi.</p>",
           "<p><b>Jenis-jenis Gaya:</b></p>",
           "<p>1. <b>Gaya Gravitasi</b> – Gaya tarik bumi yang menyebabkan benda jatuh ke tanah.</p>",
-          "<p>2. <b>Gaya Gesek</b> – Gaya yang terjadi saat dua permukaan benda saling bersentuhan dan bergerak relatif satu sama lain.</p>"
+          "<p>2. <b>Gaya Normal</b> – Gaya yang bekerja tegak lurus pada permukaan tempat benda berada.</p>",
+          "<p>3. <b>Gaya Gesek</b> – Gaya yang terjadi saat dua permukaan benda saling bersentuhan dan bergerak relatif satu sama lain.</p>"
         ]
       },
       {
         "page_number": 2,
         "text": [
           "<p><b>Pengertian Usaha</b></p>",
-          "<p>Usaha adalah hasil perkalian antara gaya yang bekerja pada suatu benda dengan perpindahan benda tersebut dalam arah gaya bekerja. Usaha memiliki satuan joule (J) dan dihitung dengan rumus <i>Usaha = Gaya × Perpindahan × cos θ</i>, di mana θ adalah sudut antara arah gaya dan perpindahan.</p>",
+          "<p>Usaha adalah hasil perkalian antara gaya yang bekerja pada suatu benda dengan perpindahan benda tersebut dalam arah gaya bekerja. Usaha memiliki satuan joule (J) dan dihitung dengan rumus <i>Usaha = Gaya × Perpindahan</i>.</p>",
           "<p><b>Contoh Usaha:</b></p>",
           "<p>Jika sebuah benda diberikan gaya 10 N untuk bergerak sejauh 5 meter searah dengan gaya, maka usaha yang dilakukan adalah <i>Usaha = 10 N × 5 m = 50 J</i>.</p>"
         ]
@@ -2369,48 +2370,48 @@
       },
       {
         "question": [
-          "<p>Jika gaya sebesar 15 N bekerja pada benda dan benda tersebut bergerak sejauh 4 meter dengan sudut 60° terhadap arah gaya, hitunglah usaha yang dilakukan.</p>"
+          "<p>Jika gaya sebesar 15 N bekerja pada benda dan benda tersebut bergerak sejauh 4 meter, hitunglah usaha yang dilakukan.</p>"
         ],
         "options": [
           {
-            "text": "Usaha = 30 J",
-            "feedback": "Benar! Usaha = Gaya × Perpindahan × cos(θ) = 15 N × 4 m × cos(60°) = 30 J."
-          },
-          {
             "text": "Usaha = 60 J",
-            "feedback": "Salah! Periksa nilai cos(60°) yang digunakan dalam perhitungan."
-          },
-          {
-            "text": "Usaha = 15 J",
-            "feedback": "Salah! Cek kembali rumus usaha dengan sudut yang benar."
+            "feedback": "Benar! Usaha = Gaya × Perpindahan = 15 N × 4 m = 60 J."
           },
           {
             "text": "Usaha = 45 J",
-            "feedback": "Salah! Periksa kembali perhitungan antara gaya dan perpindahan."
+            "feedback": "Salah! Periksa perhitungan gaya dan perpindahan yang benar."
+          },
+          {
+            "text": "Usaha = 75 J",
+            "feedback": "Salah! Periksa perhitungan usaha dengan benar."
+          },
+          {
+            "text": "Usaha = 100 J",
+            "feedback": "Salah! Cek kembali perhitungan gaya dan jarak yang benar."
           }
         ],
         "answer_index": 0
       },
       {
         "question": [
-          "<p>Sebuah benda diberi gaya sebesar 50 N dan bergerak sejauh 3 meter dengan sudut 30° terhadap arah gaya. Hitunglah usaha yang dilakukan oleh benda.</p>"
+          "<p>Sebuah benda diberi gaya sebesar 50 N dan bergerak sejauh 3 meter. Hitunglah usaha yang dilakukan oleh benda.</p>"
         ],
         "options": [
           {
-            "text": "Usaha = 129 J",
-            "feedback": "Benar! Usaha = Gaya × Perpindahan × cos(θ) = 50 N × 3 m × cos(30°) = 129 J."
+            "text": "Usaha = 150 J",
+            "feedback": "Benar! Usaha = Gaya × Perpindahan = 50 N × 3 m = 150 J."
           },
           {
             "text": "Usaha = 100 J",
-            "feedback": "Salah! Periksa perhitungan cos(30°) yang benar."
+            "feedback": "Salah! Periksa perhitungan gaya dan jarak yang benar."
           },
           {
-            "text": "Usaha = 75 J",
-            "feedback": "Salah! Cek pembagian yang benar antara gaya dan perpindahan."
+            "text": "Usaha = 200 J",
+            "feedback": "Salah! Periksa gaya dan perpindahan yang benar."
           },
           {
-            "text": "Usaha = 150 J",
-            "feedback": "Salah! Cek kembali sudut dan gaya yang digunakan."
+            "text": "Usaha = 250 J",
+            "feedback": "Salah! Cek kembali perhitungan antara gaya dan perpindahan."
           }
         ],
         "answer_index": 0
@@ -2441,5 +2442,6 @@
       }
     ]
   }
+  
   
 ]
