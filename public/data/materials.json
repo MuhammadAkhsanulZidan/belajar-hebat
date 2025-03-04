@@ -2441,7 +2441,111 @@
         "answer_index": 0
       }
     ]
-  }
-  
-  
+  },
+  {
+    "id": 26,
+    "title": "Gelombang",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Gelombang</b></p>",
+          "<p>Gelombang adalah getaran yang merambat melalui medium atau ruang tanpa membawa materi. Gelombang dapat diklasifikasikan berdasarkan arah rambatannya dan mediumnya.</p>",
+          "<p><b>Jenis-jenis Gelombang:</b></p>",
+          "<p>1. <b>Gelombang Mekanik</b> – Gelombang yang memerlukan medium untuk merambat, seperti gelombang air dan gelombang suara.</p>",
+          "<p>2. <b>Gelombang Elektromagnetik</b> – Gelombang yang tidak memerlukan medium, seperti cahaya dan gelombang radio.</p>",
+          "<p>3. <b>Gelombang Longitudinal</b> – Gelombang yang arah getarannya sejajar dengan arah rambatannya, seperti gelombang suara.</p>",
+          "<p>4. <b>Gelombang Transversal</b> – Gelombang yang arah getarannya tegak lurus terhadap arah rambatannya, seperti gelombang cahaya.</p>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Karakteristik Gelombang</b></p>",
+          "<p>Gelombang memiliki beberapa karakteristik utama yang dapat diukur, yaitu:</p>",
+          "<p>1. <b>Panjang Gelombang (λ)</b> – Jarak antara dua puncak atau dua lembah berturut-turut dalam gelombang transversal, atau dua rapatan atau dua renggangan berturut-turut dalam gelombang longitudinal.</p>",
+          "<p>2. <b>Frekuensi (f)</b> – Jumlah gelombang yang melewati suatu titik dalam satu detik, diukur dalam hertz (Hz).</p>",
+          "<p>3. <b>Periode (T)</b> – Waktu yang dibutuhkan untuk satu gelombang lengkap, dengan hubungan T = 1/f.</p>",
+          "<p>4. <b>Amplitudo (A)</b> – Besarnya simpangan maksimum dari titik keseimbangan.</p>",
+          "<p>5. <b>Kecepatan Gelombang (v)</b> – Kecepatan perambatan gelombang, dengan rumus v = λ × f.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Gelombang yang dapat merambat tanpa memerlukan medium disebut?</p>"
+        ],
+        "options": [
+          {
+            "text": "Gelombang Elektromagnetik",
+            "feedback": "Benar! Gelombang elektromagnetik dapat merambat tanpa medium, seperti cahaya dan gelombang radio."
+          },
+          {
+            "text": "Gelombang Mekanik",
+            "feedback": "Salah! Gelombang mekanik memerlukan medium untuk merambat."
+          },
+          {
+            "text": "Gelombang Longitudinal",
+            "feedback": "Salah! Gelombang longitudinal masih memerlukan medium untuk merambat."
+          },
+          {
+            "text": "Gelombang Transversal",
+            "feedback": "Salah! Gelombang transversal bisa berupa mekanik atau elektromagnetik."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Sebuah gelombang memiliki panjang gelombang 2 meter dan frekuensi 5 Hz. Berapa kecepatan gelombangnya?</p>"
+        ],
+        "options": [
+          {
+            "text": "10 m/s",
+            "feedback": "Benar! Kecepatan gelombang dihitung dengan rumus v = λ × f = 2 m × 5 Hz = 10 m/s."
+          },
+          {
+            "text": "5 m/s",
+            "feedback": "Salah! Periksa kembali perhitungan kecepatan gelombang dengan rumus v = λ × f."
+          },
+          {
+            "text": "2.5 m/s",
+            "feedback": "Salah! Periksa kembali hasil perkalian panjang gelombang dan frekuensi."
+          },
+          {
+            "text": "15 m/s",
+            "feedback": "Salah! Pastikan nilai panjang gelombang dan frekuensi dikalikan dengan benar."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Jika periode suatu gelombang adalah 0.2 detik, berapa frekuensinya?</p>"
+        ],
+        "options": [
+          {
+            "text": "5 Hz",
+            "feedback": "Benar! Frekuensi dihitung dengan rumus f = 1/T = 1/0.2 s = 5 Hz."
+          },
+          {
+            "text": "0.5 Hz",
+            "feedback": "Salah! Frekuensi adalah kebalikan dari periode."
+          },
+          {
+            "text": "2 Hz",
+            "feedback": "Salah! Coba hitung kembali menggunakan rumus f = 1/T."
+          },
+          {
+            "text": "10 Hz",
+            "feedback": "Salah! Pastikan menggunakan perhitungan yang benar."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+}
+
+
 ]
