@@ -2472,7 +2472,7 @@
           "<ul>",
           "<li>EP = Energi Potensial (Joule)</li>",
           "<li>m = Massa benda (kg)</li>",
-          "<li>g = Percepatan gravitasi (9.8 m/s²)</li>",
+          "<li>g = Percepatan gravitasi (9.8 m/s² atau 10 m/s², sesuai soal)</li>",
           "<li>h = Ketinggian benda dari permukaan (m)</li>",
           "</ul>"
         ]
@@ -2515,7 +2515,7 @@
       },
       {
         "question": [
-          "<p>Sebuah benda bermassa 2 kg berada pada ketinggian 10 meter dari permukaan tanah. Berapakah energi potensialnya?</p>"
+          "<p>Sebuah benda bermassa 2 kg berada pada ketinggian 10 meter dari permukaan tanah. Berapakah energi potensialnya? (g=9.8m/s²)</p>"
         ],
         "options": [
           {
