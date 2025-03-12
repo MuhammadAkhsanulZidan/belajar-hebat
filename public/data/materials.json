@@ -2444,6 +2444,151 @@
   },
   {
     "id": 26,
+    "title": "Energi Kinetik, Potensial, dan Mekanik",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Energi Kinetik</b></p>",
+          "<p>Energi kinetik adalah energi yang dimiliki oleh suatu benda karena geraknya. Besarnya energi kinetik bergantung pada massa dan kecepatan benda.</p>",
+          "<p><b>Rumus Energi Kinetik:</b></p>",
+          "<p>EK = ½ × m × v²</p>",
+          "<p>Dimana:</p>",
+          "<ul>",
+          "<li>EK = Energi Kinetik (Joule)</li>",
+          "<li>m = Massa benda (kg)</li>",
+          "<li>v = Kecepatan benda (m/s)</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Pengertian Energi Potensial</b></p>",
+          "<p>Energi potensial adalah energi yang dimiliki oleh suatu benda karena posisinya terhadap titik acuan, biasanya disebabkan oleh gaya gravitasi.</p>",
+          "<p><b>Rumus Energi Potensial:</b></p>",
+          "<p>EP = m × g × h</p>",
+          "<p>Dimana:</p>",
+          "<ul>",
+          "<li>EP = Energi Potensial (Joule)</li>",
+          "<li>m = Massa benda (kg)</li>",
+          "<li>g = Percepatan gravitasi (9.8 m/s²)</li>",
+          "<li>h = Ketinggian benda dari permukaan (m)</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 3,
+        "text": [
+          "<p><b>Pengertian Energi Mekanik</b></p>",
+          "<p>Energi mekanik adalah jumlah dari energi kinetik dan energi potensial dalam suatu sistem.</p>",
+          "<p><b>Rumus Energi Mekanik:</b></p>",
+          "<p>EM = EK + EP</p>",
+          "<p>Energi mekanik bersifat kekal dalam sistem tanpa gaya luar atau gesekan.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Sebuah mobil bermassa 1000 kg bergerak dengan kecepatan 20 m/s. Berapakah energi kinetiknya?</p>"
+        ],
+        "options": [
+          {
+            "text": "100.000 J",
+            "feedback": "Salah! Periksa kembali rumus EK = ½ × m × v²."
+          },
+          {
+            "text": "200.000 J",
+            "feedback": "Benar! EK = ½ × 1000 × (20)² = 200.000 J."
+          },
+          {
+            "text": "400.000 J",
+            "feedback": "Salah! Jangan lupa membagi dua dalam rumus energi kinetik."
+          },
+          {
+            "text": "50.000 J",
+            "feedback": "Salah! Pastikan kecepatan dikuadratkan sebelum dikalikan dengan massa."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Sebuah benda bermassa 2 kg berada pada ketinggian 10 meter dari permukaan tanah. Berapakah energi potensialnya?</p>"
+        ],
+        "options": [
+          {
+            "text": "98 J",
+            "feedback": "Salah! Pastikan menggunakan gravitasi dengan benar dalam perhitungan."
+          },
+          {
+            "text": "196 J",
+            "feedback": "Benar! EP = 2 × 9.8 × 10 = 196 J."
+          },
+          {
+            "text": "20 J",
+            "feedback": "Salah! Pastikan semua nilai dimasukkan ke dalam rumus dengan benar."
+          },
+          {
+            "text": "400 J",
+            "feedback": "Salah! Periksa kembali perhitungan energi potensial."
+          }
+        ],
+        "answer_index": 1
+      },
+      {
+        "question": [
+          "<p>Sebuah benda memiliki energi kinetik 150 J dan energi potensial 50 J. Berapakah energi mekaniknya?</p>"
+        ],
+        "options": [
+          {
+            "text": "50 J",
+            "feedback": "Salah! Energi mekanik adalah penjumlahan EK dan EP."
+          },
+          {
+            "text": "100 J",
+            "feedback": "Salah! Periksa kembali perhitungan penjumlahan energi."
+          },
+          {
+            "text": "200 J",
+            "feedback": "Benar! EM = EK + EP = 150 + 50 = 200 J."
+          },
+          {
+            "text": "300 J",
+            "feedback": "Salah! Pastikan tidak mengalikan nilai EK dan EP."
+          }
+        ],
+        "answer_index": 2
+      },
+      {
+        "question": [
+          "<p>Jika sebuah bola memiliki energi mekanik sebesar 500 J dan energi potensialnya 300 J, berapakah energi kinetiknya?</p>"
+        ],
+        "options": [
+          {
+            "text": "100 J",
+            "feedback": "Salah! Gunakan rumus EM = EK + EP dengan benar."
+          },
+          {
+            "text": "200 J",
+            "feedback": "Benar! EK = EM - EP = 500 - 300 = 200 J."
+          },
+          {
+            "text": "400 J",
+            "feedback": "Salah! Jangan lupa bahwa energi mekanik adalah jumlah EK dan EP."
+          },
+          {
+            "text": "500 J",
+            "feedback": "Salah! Pastikan tidak mengabaikan energi potensial dalam perhitungan."
+          }
+        ],
+        "answer_index": 1
+      }
+    ]
+  },  
+  {
+    "id": 27,
     "title": "Gelombang",
     "pages": [
       {
@@ -2563,7 +2708,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 28,
     "title": "Pesawat Sederhana",
     "pages": [
       {
@@ -2659,5 +2804,65 @@
         "answer_index": 0
       }
     ]
+  },
+  {
+    "id": 29,
+    "title": "Menghitung Jarak Pantul",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Jarak Pantul</b></p>",
+          "<p>Jarak pantul adalah jarak yang ditempuh oleh gelombang setelah dipantulkan dari suatu permukaan. Dalam fisika, konsep ini sering digunakan dalam perhitungan gelombang bunyi dan cahaya.</p>",
+          "<p><b>Contoh Fenomena Jarak Pantul:</b></p>",
+          "<ul>",
+          "<li>Gema pada ruangan besar atau tebing.</li>",
+          "<li>Pengukuran kedalaman laut dengan sonar.</li>",
+          "<li>Pantulan cahaya pada cermin atau permukaan air.</li>",
+          "</ul>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Rumus Menghitung Jarak Pantul</b></p>",
+          "<p>Untuk menghitung jarak pantul, digunakan rumus:</p>",
+          "<p>Jarak Pantul = (Kecepatan Gelombang × Waktu Tempuh) / 2</p>",
+          "<p>Dimana:</p>",
+          "<ul>",
+          "<li>Kecepatan Gelombang (v) dalam m/s.</li>",
+          "<li>Waktu Tempuh (t) dalam detik (s).</li>",
+          "</ul>",
+          "<p>Pembagian dengan 2 dilakukan karena gelombang harus pergi dan kembali.</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Sebuah suara dipantulkan dari dinding setelah 2 detik. Jika kecepatan suara di udara adalah 340 m/s, berapakah jarak dinding dari sumber suara?</p>"
+        ],
+        "options": [
+          {
+            "text": "340 m",
+            "feedback": "Salah! Jangan lupa membagi dengan 2 karena suara pergi dan kembali."
+          },
+          {
+            "text": "680 m",
+            "feedback": "Salah! Pastikan menghitung dengan benar menggunakan rumus jarak pantul."
+          },
+          {
+            "text": "170 m",
+            "feedback": "Benar! Jarak dihitung dengan (340 × 2) / 2 = 170 m."
+          },
+          {
+            "text": "85 m",
+            "feedback": "Salah! Periksa kembali perhitungannya."
+          }
+        ],
+        "answer_index": 2
+      }
+    ]
   }
+  
 ]
