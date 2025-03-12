@@ -2715,7 +2715,7 @@
         "page_number": 1,
         "text": [
           "<p><b>Pengertian Pesawat Sederhana</b></p>",
-          "<p>Pesawat sederhana adalah alat yang membantu manusia dalam melakukan usaha dengan lebih mudah dan efisien. Salah satu kategori pesawat sederhana adalah sistem katrol, bidang miring, dan roda poros.</p>"
+          "<p>Pesawat sederhana adalah alat yang membantu manusia dalam melakukan usaha dengan lebih mudah dan efisien. Salah satu kategori pesawat sederhana adalah sistem katrol, bidang miring, roda poros, dan tuas/pengungkit.</p>"
         ]
       },
       {
@@ -2727,7 +2727,7 @@
           "<ul>",
           "<li><b>Katrol Tetap:</b> Katrol yang dipasang pada tempat tetap, seperti pada sumur timba. Keuntungan mekanis (KM) = 1.</li>",
           "<li><b>Katrol Bebas:</b> Katrol yang bergerak bersama beban. KM = 2.</li>",
-          "<li><b>Katrol Majemuk:</b> Gabungan katrol tetap dan bebas. KM = jumlah tali yang menopang beban.</li>",
+          "<li><b>Katrol Majemuk:</b> Gabungan katrol tetap dan bebas. KM = jumlah tali/katrol yang menopang beban.</li>",
           "</ul>",
           "<p>Dalam sistem katrol:</p>",
           "<ul>",
@@ -2752,6 +2752,20 @@
           "<p>Roda dan poros adalah pesawat sederhana yang terdiri dari roda yang terhubung dengan poros, digunakan untuk memperbesar gaya atau kecepatan.</p>",
           "<p><b>Rumus Keuntungan Mekanis:</b> KM = Jari-jari roda / Jari-jari poros</p>"
         ]
+      },
+      {
+        "page_number": 5,
+        "text": [
+          "<p><b>Tuas/Pengungkit</b></p>",
+          "<p>Tuas atau pengungkit adalah pesawat sederhana yang digunakan untuk mengangkat atau memindahkan beban dengan memanfaatkan titik tumpu.</p>",
+          "<p><b>Rumus Keuntungan Mekanis:</b> KM = Gaya Beban / Gaya Kuasa atau KM = Lengan Kuasa / Lengan Beban</p>",
+          "<p><b>Jenis-jenis Tuas:</b></p>",
+          "<ul>",
+          "<li><b>Tuas Jenis Pertama:</b> Titik tumpu di antara gaya kuasa dan gaya beban (contoh: gunting, jungkat-jungkit).</li>",
+          "<li><b>Tuas Jenis Kedua:</b> Gaya beban di antara titik tumpu dan gaya kuasa (contoh: pembuka botol, gerobak dorong).</li>",
+          "<li><b>Tuas Jenis Ketiga:</b> Gaya kuasa di antara titik tumpu dan gaya beban (contoh: pinset, sekop).</li>",
+          "</ul>"
+        ]
       }
     ],
     "questions": [
@@ -2760,22 +2774,10 @@
           "<p>Jika sebuah katrol majemuk memiliki 4 tali yang menopang beban, berapa keuntungan mekanisnya?</p>"
         ],
         "options": [
-          {
-            "text": "4",
-            "feedback": "Benar! Keuntungan mekanis katrol majemuk adalah jumlah tali yang menopang beban."
-          },
-          {
-            "text": "2",
-            "feedback": "Salah! Periksa kembali jumlah tali yang menopang beban."
-          },
-          {
-            "text": "1",
-            "feedback": "Salah! Katrol tetap memiliki KM = 1, bukan katrol majemuk."
-          },
-          {
-            "text": "8",
-            "feedback": "Salah! Hitung kembali berdasarkan jumlah tali yang menopang beban."
-          }
+          {"text": "4", "feedback": "Benar! Keuntungan mekanis katrol majemuk adalah jumlah tali yang menopang beban."},
+          {"text": "2", "feedback": "Salah! Periksa kembali jumlah tali yang menopang beban."},
+          {"text": "1", "feedback": "Salah! Katrol tetap memiliki KM = 1, bukan katrol majemuk."},
+          {"text": "8", "feedback": "Salah! Hitung kembali berdasarkan jumlah tali yang menopang beban."}
         ],
         "answer_index": 0
       },
@@ -2784,25 +2786,61 @@
           "<p>Sebuah bidang miring memiliki panjang 6 meter dan tinggi 2 meter. Berapa keuntungan mekanisnya?</p>"
         ],
         "options": [
+          {"text": "3", "feedback": "Benar! KM = Panjang / Tinggi = 6 m / 2 m = 3."},
+          {"text": "2", "feedback": "Salah! Pastikan membagi panjang dengan tinggi yang benar."},
+          {"text": "6", "feedback": "Salah! Coba hitung ulang menggunakan rumus yang benar."},
+          {"text": "1", "feedback": "Salah! Bidang miring biasanya memiliki KM lebih dari 1."}
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Jika lengan kuasa pada tuas adalah 80 cm dan lengan beban adalah 20 cm, berapa keuntungan mekanisnya?</p>"
+        ],
+        "options": [
+          {"text": "4", "feedback": "Benar! KM = Lengan Kuasa / Lengan Beban = 80 cm / 20 cm = 4."},
+          {"text": "2", "feedback": "Salah! Hitung kembali perbandingan antara lengan kuasa dan lengan beban."},
+          {"text": "1", "feedback": "Salah! Keuntungan mekanis harus lebih dari 1 jika lengan kuasa lebih panjang dari lengan beban."},
+          {"text": "8", "feedback": "Salah! Coba hitung ulang dengan rumus yang benar."}
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Sebuah pengungkit digunakan untuk mengangkat beban 200 N dengan gaya kuasa 50 N. Berapa keuntungan mekanisnya?</p>"
+        ],
+        "options": [
+          {"text": "4", "feedback": "Benar! KM = Gaya Beban / Gaya Kuasa = 200 N / 50 N = 4."},
+          {"text": "2", "feedback": "Salah! Pastikan membagi gaya beban dengan gaya kuasa yang benar."},
+          {"text": "1", "feedback": "Salah! Coba hitung ulang dengan rumus yang benar."},
+          {"text": "5", "feedback": "Salah! Periksa kembali nilai gaya beban dan gaya kuasa."}
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Sebuah roda memiliki jari-jari 30 cm, sedangkan porosnya memiliki jari-jari 10 cm. Berapakah keuntungan mekanisnya?</p>"
+        ],
+        "options": [
           {
             "text": "3",
-            "feedback": "Benar! KM = Panjang / Tinggi = 6 m / 2 m = 3."
+            "feedback": "Benar! KM = Jari-jari roda / Jari-jari poros = 30 cm / 10 cm = 3."
           },
           {
             "text": "2",
-            "feedback": "Salah! Pastikan membagi panjang dengan tinggi yang benar."
+            "feedback": "Salah! Pastikan membagi jari-jari roda dengan jari-jari poros yang benar."
           },
           {
-            "text": "6",
+            "text": "4",
             "feedback": "Salah! Coba hitung ulang menggunakan rumus yang benar."
           },
           {
             "text": "1",
-            "feedback": "Salah! Bidang miring biasanya memiliki KM lebih dari 1."
+            "feedback": "Salah! Roda dan poros biasanya memiliki KM lebih dari 1."
           }
         ],
         "answer_index": 0
-      }
+      }      
     ]
   },
   {
