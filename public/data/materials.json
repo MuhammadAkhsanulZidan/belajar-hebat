@@ -2469,6 +2469,22 @@
           "<p>4. <b>Amplitudo (A)</b> – Besarnya simpangan maksimum dari titik keseimbangan.</p>",
           "<p>5. <b>Kecepatan Gelombang (v)</b> – Kecepatan perambatan gelombang, dengan rumus v = λ × f.</p>"
         ]
+      },
+      {
+        "page_number": 3,
+        "text": [
+          "<p><b>Karakteristik Gelombang Transversal</b></p>",
+          "<img src='image.png' alt='Bagan Pembekuan Darah' width='100%'/><br>",
+          "<b>Cara mudah menghitung banyak gelombang:</b><br>",
+          "<p>Dari A ke E itu 1 gelombang, dari A ke C itu 1/2 Gelombang, dari A ke B itu 1/4 Gelombang</p>",
+          "<p><b>Contoh Gelombang Transversal:</b></p>",
+          "<ul>",
+          "<li>Gelombang pada tali yang digetarkan</li>",
+          "<li>Gelombang air di permukaan</li>",
+          "<li>Gelombang cahaya</li>",
+          "<li>Gelombang pada permukaan bumi akibat gempa</li>",
+          "</ul>"
+        ]
       }
     ],
     "questions": [
@@ -2545,7 +2561,103 @@
         "answer_index": 0
       }
     ]
-}
-
-
+  },
+  {
+    "id": 27,
+    "title": "Pesawat Sederhana",
+    "pages": [
+      {
+        "page_number": 1,
+        "text": [
+          "<p><b>Pengertian Pesawat Sederhana</b></p>",
+          "<p>Pesawat sederhana adalah alat yang membantu manusia dalam melakukan usaha dengan lebih mudah dan efisien. Salah satu kategori pesawat sederhana adalah sistem katrol, bidang miring, dan roda poros.</p>"
+        ]
+      },
+      {
+        "page_number": 2,
+        "text": [
+          "<p><b>Katrol</b></p>",
+          "<p>Katrol adalah roda berputar yang digunakan untuk mengangkat atau memindahkan beban dengan tali atau rantai.</p>",
+          "<p><b>Jenis-jenis Katrol:</b></p>",
+          "<ul>",
+          "<li><b>Katrol Tetap:</b> Katrol yang dipasang pada tempat tetap, seperti pada sumur timba. Keuntungan mekanis (KM) = 1.</li>",
+          "<li><b>Katrol Bebas:</b> Katrol yang bergerak bersama beban. KM = 2.</li>",
+          "<li><b>Katrol Majemuk:</b> Gabungan katrol tetap dan bebas. KM = jumlah tali yang menopang beban.</li>",
+          "</ul>",
+          "<p>Dalam sistem katrol:</p>",
+          "<ul>",
+          "<li><b>Gaya Beban (W)</b> adalah gaya yang harus diangkat, biasanya berat benda yang ditarik.</li>",
+          "<li><b>Gaya Kuasa (F)</b> adalah gaya yang diberikan untuk mengangkat beban menggunakan katrol.</li>",
+          "</ul>",
+          "<p>Semakin besar keuntungan mekanis, semakin kecil gaya kuasa yang dibutuhkan.</p>"
+        ]
+      },
+      {
+        "page_number": 3,
+        "text": [
+          "<p><b>Bidang Miring</b></p>",
+          "<p>Bidang miring adalah permukaan datar yang dimiringkan untuk membantu memindahkan beban dengan usaha lebih kecil.</p>",
+          "<p><b>Rumus Keuntungan Mekanis:</b> KM = Panjang Bidang Miring / Tinggi Bidang Miring</p>"
+        ]
+      },
+      {
+        "page_number": 4,
+        "text": [
+          "<p><b>Roda dan Poros</b></p>",
+          "<p>Roda dan poros adalah pesawat sederhana yang terdiri dari roda yang terhubung dengan poros, digunakan untuk memperbesar gaya atau kecepatan.</p>",
+          "<p><b>Rumus Keuntungan Mekanis:</b> KM = Jari-jari roda / Jari-jari poros</p>"
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "question": [
+          "<p>Jika sebuah katrol majemuk memiliki 4 tali yang menopang beban, berapa keuntungan mekanisnya?</p>"
+        ],
+        "options": [
+          {
+            "text": "4",
+            "feedback": "Benar! Keuntungan mekanis katrol majemuk adalah jumlah tali yang menopang beban."
+          },
+          {
+            "text": "2",
+            "feedback": "Salah! Periksa kembali jumlah tali yang menopang beban."
+          },
+          {
+            "text": "1",
+            "feedback": "Salah! Katrol tetap memiliki KM = 1, bukan katrol majemuk."
+          },
+          {
+            "text": "8",
+            "feedback": "Salah! Hitung kembali berdasarkan jumlah tali yang menopang beban."
+          }
+        ],
+        "answer_index": 0
+      },
+      {
+        "question": [
+          "<p>Sebuah bidang miring memiliki panjang 6 meter dan tinggi 2 meter. Berapa keuntungan mekanisnya?</p>"
+        ],
+        "options": [
+          {
+            "text": "3",
+            "feedback": "Benar! KM = Panjang / Tinggi = 6 m / 2 m = 3."
+          },
+          {
+            "text": "2",
+            "feedback": "Salah! Pastikan membagi panjang dengan tinggi yang benar."
+          },
+          {
+            "text": "6",
+            "feedback": "Salah! Coba hitung ulang menggunakan rumus yang benar."
+          },
+          {
+            "text": "1",
+            "feedback": "Salah! Bidang miring biasanya memiliki KM lebih dari 1."
+          }
+        ],
+        "answer_index": 0
+      }
+    ]
+  }
 ]
