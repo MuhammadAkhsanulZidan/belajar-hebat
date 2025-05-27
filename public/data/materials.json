@@ -2901,6 +2901,178 @@
         "answer_index": 2
       }
     ]
+  },
+  {
+  "id": 30,
+  "title": "Struktur Bumi dan Pergerakan Lempeng Tektonik",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": [
+        "<p><b>Lapisan-lapisan Struktur Bumi</b></p>",
+        "<p>Bumi tersusun atas beberapa lapisan berdasarkan komposisi kimia dan sifat fisiknya, yaitu kerak, mantel, dan inti bumi.</p>",
+        "<ul>",
+        "<li><b>Kerak Bumi:</b> Lapisan paling luar, terdiri dari kerak benua dan kerak samudra. Ketebalannya antara 5–70 km.</li>",
+        "<li><b>Mantel:</b> Terletak di bawah kerak, terdiri dari mantel atas dan bawah. Mantel lebih padat dan tebal (sekitar 2.900 km).</li>",
+        "<li><b>Inti Bumi:</b> Terdiri dari inti luar (cair) dan inti dalam (padat), sebagian besar tersusun dari besi dan nikel.</li>",
+        "</ul>"
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": [
+        "<p><b>Litosfer dan Astenosfer</b></p>",
+        "<ul>",
+        "<li><b>Litosfer:</b> Lapisan padat yang terdiri atas kerak dan bagian paling atas mantel. Litosfer terbagi menjadi beberapa lempeng tektonik.</li>",
+        "<li><b>Astenosfer:</b> Terletak di bawah litosfer. Meskipun berupa batuan padat, astenosfer bersifat plastis sehingga memungkinkan litosfer bergerak di atasnya.</li>",
+        "</ul>",
+        "<p>Pergerakan litosfer di atas astenosfer inilah yang menyebabkan terjadinya pergeseran lempeng.</p>"
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": [
+        "<p><b>Konveksi Mantel</b></p>",
+        "<p>Di dalam mantel, terjadi arus konveksi akibat perbedaan suhu antara inti dan permukaan bumi. Arus ini menggerakkan lempeng-lempeng litosfer.</p>",
+        "<p>Proses ini adalah salah satu penyebab utama pergerakan lempeng tektonik, yang menyebabkan gempa bumi dan pembentukan gunung.</p>"
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": [
+        "<p><b>Pergerakan Lempeng Tektonik</b></p>",
+        "<p>Lempeng tektonik bergerak dengan berbagai arah. Ada tiga jenis utama pergerakan lempeng:</p>",
+        "<ul>",
+        "<li><b>Divergen:</b> Lempeng bergerak menjauh. Terjadi di tengah samudra dan membentuk pemekaran dasar laut.</li>",
+        "<li><b>Konvergen:</b> Lempeng saling mendekat dan dapat saling menumbuk. Menyebabkan terbentuknya pegunungan atau palung laut.</li>",
+        "<li><b>Transform:</b> Lempeng saling bergesekan secara horizontal. Pergerakan ini dapat menyebabkan gempa bumi besar (misalnya, Sesar San Andreas).</li>",
+        "</ul>"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question": [
+        "<p>Manakah pernyataan yang benar tentang lapisan bumi?</p>"
+      ],
+      "options": [
+        {
+          "text": "Litosfer bersifat plastis dan berada di bawah astenosfer.",
+          "feedback": "Salah! Litosfer bersifat padat dan berada di atas astenosfer."
+        },
+        {
+          "text": "Astenosfer berada di atas kerak bumi.",
+          "feedback": "Salah! Astenosfer berada di bawah litosfer, termasuk kerak bumi."
+        },
+        {
+          "text": "Inti luar bumi bersifat cair dan mengandung besi serta nikel.",
+          "feedback": "Benar! Inti luar bumi memang cair dan tersusun dari besi dan nikel."
+        },
+        {
+          "text": "Mantel bumi adalah lapisan paling luar bumi.",
+          "feedback": "Salah! Lapisan paling luar adalah kerak bumi."
+        }
+      ],
+      "answer_index": 2
+    },
+    {
+      "question": [
+        "<p>Jenis pergerakan lempeng yang menyebabkan terbentuknya palung laut adalah?</p>"
+      ],
+      "options": [
+        {
+          "text": "Divergen",
+          "feedback": "Salah! Divergen menyebabkan pemekaran dasar laut."
+        },
+        {
+          "text": "Konvergen",
+          "feedback": "Benar! Konvergen dapat menyebabkan satu lempeng menunjam ke bawah dan membentuk palung laut."
+        },
+        {
+          "text": "Transform",
+          "feedback": "Salah! Transform menyebabkan pergeseran horizontal, bukan palung laut."
+        },
+        {
+          "text": "Konduksi",
+          "feedback": "Salah! Konduksi bukan jenis pergerakan lempeng, melainkan perpindahan panas."
+        }
+      ],
+      "answer_index": 1
+    },
+    {
+    "question": [
+      "<p>Lempeng tektonik berada di lapisan bumi yang disebut...</p>"
+    ],
+    "options": [
+      {
+        "text": "Inti dalam",
+        "feedback": "Salah! Inti dalam berada di pusat bumi dan tidak mengandung lempeng tektonik."
+      },
+      {
+        "text": "Litosfer",
+        "feedback": "Benar! Lempeng tektonik berada di litosfer, lapisan padat paling luar bumi."
+      },
+      {
+        "text": "Astenosfer",
+        "feedback": "Salah! Astenosfer berada di bawah litosfer dan menjadi media pergerakan lempeng."
+      },
+      {
+        "text": "Mantel bawah",
+        "feedback": "Salah! Mantel bawah terlalu dalam untuk tempat lempeng tektonik."
+      }
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": [
+      "<p>Apa penyebab utama lempeng tektonik dapat bergerak?</p>"
+    ],
+    "options": [
+      {
+        "text": "Gravitasi matahari",
+        "feedback": "Salah! Gravitasi matahari tidak menyebabkan pergerakan lempeng."
+      },
+      {
+        "text": "Tekanan dari atmosfer",
+        "feedback": "Salah! Tekanan atmosfer tidak cukup kuat untuk menggerakkan lempeng."
+      },
+      {
+        "text": "Arus konveksi di mantel bumi",
+        "feedback": "Benar! Arus konveksi di mantellah yang mendorong pergerakan lempeng."
+      },
+      {
+        "text": "Putaran bumi",
+        "feedback": "Salah! Putaran bumi tidak langsung menyebabkan gerakan lempeng."
+      }
+    ],
+    "answer_index": 2
+  },
+  {
+    "question": [
+      "<p>Jenis pergerakan lempeng transform ditandai oleh...</p>"
+    ],
+    "options": [
+      {
+        "text": "Lempeng saling menjauh",
+        "feedback": "Salah! Itu adalah pergerakan divergen."
+      },
+      {
+        "text": "Lempeng saling mendekat",
+        "feedback": "Salah! Itu adalah pergerakan konvergen."
+      },
+      {
+        "text": "Lempeng saling bergesekan secara horizontal",
+        "feedback": "Benar! Pergerakan transform melibatkan gesekan horizontal antar lempeng."
+      },
+      {
+        "text": "Lempeng membentuk gunung berapi di tengah samudra",
+        "feedback": "Salah! Itu lebih sesuai dengan divergen."
+      }
+    ],
+    "answer_index": 2
   }
+  ]
+}
+
   
 ]
