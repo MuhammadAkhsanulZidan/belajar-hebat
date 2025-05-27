@@ -2942,14 +2942,23 @@
       "page_number": 4,
       "text": [
         "<p><b>Pergerakan Lempeng Tektonik</b></p>",
-        "<p>Lempeng tektonik bergerak dengan berbagai arah. Ada tiga jenis utama pergerakan lempeng:</p>",
+        "<p>Lempeng tektonik merupakan bagian keras dan kaku dari litosfer yang bergerak di atas lapisan astenosfer yang lebih plastis. Gerakan ini terjadi akibat arus konveksi panas di mantel bumi yang menyebabkan lempeng-lempeng tersebut bergerak dengan berbagai arah dan kecepatan.</p>",
+        "<p>Ada tiga jenis utama pergerakan lempeng tektonik yang sangat berpengaruh terhadap pembentukan permukaan bumi dan fenomena geologi:</p>",
         "<ul>",
-        "<li><b>Divergen:</b> Lempeng bergerak menjauh. Terjadi di tengah samudra dan membentuk pemekaran dasar laut.</li>",
-        "<li><b>Konvergen:</b> Lempeng saling mendekat dan dapat saling menumbuk. Menyebabkan terbentuknya pegunungan atau palung laut.</li>",
-        "<li><b>Transform:</b> Lempeng saling bergesekan secara horizontal. Pergerakan ini dapat menyebabkan gempa bumi besar (misalnya, Sesar San Andreas).</li>",
-        "</ul>"
+        "<li><b>Divergen (Lempeng Menjauh):</b> Pada zona divergen, dua lempeng bergerak saling menjauh satu sama lain. Biasanya terjadi di tengah samudra, seperti di punggung tengah samudra Atlantik. Saat lempeng menjauh, magma dari mantel naik ke permukaan dan mendingin membentuk kerak samudra baru. Proses ini disebut pemekaran dasar laut dan dapat menyebabkan terbentuknya punggung tengah samudra, retakan, dan gunung bawah laut.</li>",
+        "<li><b>Konvergen (Lempeng Bertumbukan):</b> Di zona konvergen, dua lempeng bergerak saling mendekat dan bertumbukan. Tergantung jenis lempeng yang bertemu, terdapat beberapa kemungkinan gejala:",
+        "<ul>",
+        "<li>Jika lempeng samudra bertumbukan dengan lempeng benua, lempeng samudra yang lebih berat biasanya terdorong masuk ke bawah lempeng benua (subduksi), membentuk palung laut dan rangkaian gunung berapi di daratan.</li>",
+        "<li>Jika dua lempeng benua bertumbukan, keduanya terangkat dan membentuk pegunungan tinggi, seperti Himalaya.</li>",
+        "<li>Jika dua lempeng samudra bertumbukan, salah satu akan mengalami subduksi, membentuk palung laut dan gunung berapi bawah laut.</li>",
+        "</ul>",
+        "Pergerakan ini sangat dinamis dan menjadi penyebab gempa bumi dan letusan gunung berapi.</li>",
+        "<li><b>Transform (Lempeng Bergesekan):</b> Pada zona transform, dua lempeng bergerak sejajar dan saling bergesekan secara horizontal. Tidak terjadi pembentukan kerak baru atau subduksi. Contoh terkenal dari pergerakan transform adalah Sesar San Andreas di California, Amerika Serikat. Gesekan ini menyebabkan terjadinya gempa bumi besar karena energi yang tersimpan pada lempeng tiba-tiba dilepaskan.</li>",
+        "</ul>",
+        "<p>Pergerakan lempeng tektonik merupakan salah satu proses geologi utama yang membentuk bentang alam di bumi dan memengaruhi kehidupan manusia melalui gempa bumi, gunung berapi, dan pembentukan pegunungan.</p>"
       ]
     }
+
   ],
   "questions": [
     {
@@ -3071,6 +3080,126 @@
       }
     ],
     "answer_index": 2
+  },
+  {
+    "question": [
+      "<p>Lapisan bumi yang paling tebal adalah...</p>"
+    ],
+    "options": [
+      {
+        "text": "Kerak bumi",
+        "feedback": "Salah! Kerak bumi adalah lapisan paling tipis."
+      },
+      {
+        "text": "Mantel bumi",
+        "feedback": "Benar! Mantel adalah lapisan paling tebal di bumi."
+      },
+      {
+        "text": "Inti luar",
+        "feedback": "Salah! Inti luar lebih tipis dibanding mantel."
+      },
+      {
+        "text": "Litosfer",
+        "feedback": "Salah! Litosfer hanya lapisan paling atas."
+      }
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": [
+      "<p>Inti dalam bumi berbentuk...</p>"
+    ],
+    "options": [
+      {
+        "text": "Cair",
+        "feedback": "Salah! Inti dalam bersifat padat."
+      },
+      {
+        "text": "Padat",
+        "feedback": "Benar! Inti dalam bumi padat dan sangat panas."
+      },
+      {
+        "text": "Gas",
+        "feedback": "Salah! Tidak ada gas di inti bumi."
+      },
+      {
+        "text": "Campuran cair dan padat",
+        "feedback": "Salah! Itu hanya di inti luar."
+      }
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": [
+      "<p>Lapisan bumi yang memungkinkan lempeng bergerak disebut...</p>"
+    ],
+    "options": [
+      {
+        "text": "Litosfer",
+        "feedback": "Salah! Litosfer adalah lempeng itu sendiri."
+      },
+      {
+        "text": "Astenosfer",
+        "feedback": "Benar! Astenosfer bersifat plastis dan membuat lempeng bisa bergerak."
+      },
+      {
+        "text": "Kerak samudra",
+        "feedback": "Salah! Kerak samudra bagian dari litosfer."
+      },
+      {
+        "text": "Inti luar",
+        "feedback": "Salah! Inti luar cair tapi bukan tempat lempeng."
+      }
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": [
+      "<p>Gempa bumi biasanya terjadi karena...</p>"
+    ],
+    "options": [
+      {
+        "text": "Pergerakan lempeng tektonik",
+        "feedback": "Benar! Pergeseran lempeng menyebabkan gempa."
+      },
+      {
+        "text": "Perubahan cuaca",
+        "feedback": "Salah! Cuaca tidak menyebabkan gempa."
+      },
+      {
+        "text": "Letusan gunung berapi saja",
+        "feedback": "Salah! Letusan gunung bisa menyebabkan gempa, tapi bukan satu-satunya penyebab."
+      },
+      {
+        "text": "Pergerakan awan",
+        "feedback": "Salah! Awan tidak ada hubungannya dengan gempa."
+      }
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": [
+      "<p>Dimanakah biasanya terjadi pemekaran dasar laut?</p>"
+    ],
+    "options": [
+      {
+        "text": "Di zona konvergen",
+        "feedback": "Salah! Zona konvergen adalah tempat lempeng bertumbukan."
+      },
+      {
+        "text": "Di zona divergen",
+        "feedback": "Benar! Di zona divergen lempeng bergerak menjauh dan membentuk dasar laut baru."
+      },
+      {
+        "text": "Di zona transform",
+        "feedback": "Salah! Zona transform adalah tempat lempeng bergesekan."
+      },
+      {
+        "text": "Di inti bumi",
+        "feedback": "Salah! Inti bumi jauh di bawah dan tidak ada dasar laut di sana."
+      }
+    ],
+    "answer_index": 1
   }
   ]
 }
